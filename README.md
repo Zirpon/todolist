@@ -20,6 +20,11 @@ WED|THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |TUE |
 
 > 这是日常
 
+- [ ] 日常下班 把代码提交 到osc 回家也能改bug
+- [ ] 
+- [ ] 买什么东西好像
+- [ ] 买水杯
+- [ ] 眼罩
 - [ ] 用laravel做一个公司官方网站
 - [ ] 用laravel做一个博客
 - [ ] 购买sock代理服务器账号密码服务
