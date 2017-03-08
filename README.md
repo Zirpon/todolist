@@ -23,6 +23,8 @@ WED|THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |TUE |
 > 这是日常
 
 - [ ] 为什么 github 要输入账号密码
+- [ ] 凡是亲力亲为比较好
+- [ ] 少问多思考 做一个可靠的人 
 - [ ] php 访问 microsoft sql server 接口函数
 - [ ] 
 - [x] 现在是三月八号凌晨35分 好困 不想反省 今天做了什么事情 今天看了抹车代码 基本掌握了框架设计跟函数接口 明天可以开始把剩下的逻辑实现了
