@@ -22,6 +22,8 @@ WED|THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |TUE |
 
 > 这是日常
 
+- [ ] 看车买车
+- [ ] 看房子买房子
 - [ ] 练好英文口语 网站口语资料 读读读
 - [ ] 学换轮胎 学一些必要修车技能
 - [ ] 学钢琴
