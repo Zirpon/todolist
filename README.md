@@ -8,10 +8,8 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 ---
 > 这是日常
 
-- [ ] 买游泳套装
-- [ ] 买运动鞋
-- [ ] 看车买车
-- [ ] 看房子买房子
+- [ ] 游泳套装
+- [ ] 跑步鞋
 - [ ] 练好英文口语 网站口语资料 读读读
 - [ ] 学换轮胎 学一些必要修车技能
 - [ ] 学钢琴
@@ -39,6 +37,8 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 - [ ] 把棋牌学下 建房间 AI 这些都很重要
 - [ ] 把 java 学透
+- [ ] 看车买车
+- [ ] 看房子买房子
 
 - [ ] 并行请求swool curl_muti
 - [ ] opcode 缓存
