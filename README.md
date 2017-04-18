@@ -8,6 +8,11 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 ---
 > 这是日常
 
+- [ ] 买洗衣液
+- [ ] 公众号
+- [ ] mssql 客户端 navicat 编码
+- [ ] 枕头
+- [ ] 买毛巾
 - [ ] 有调休会广州的话 回去办理公积金 社保 在线查询 的事情
 - [ ] 好多债要还
 - [ ] 不要花钱花那么都 要控制了
