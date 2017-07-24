@@ -9,6 +9,9 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 > 这是日常
 
 > recent monthly
+- [ ] 洗杯子
+- [ ] 晾衣服
+- [ ] 吃饭 买水果吃 买纸巾 
 - [ ] runnable，thread Java 区别
 - [ ] 啊哈算法 希望这周能够看完但是现在周五了哦
 - [ ] 清理微博了 要把转回来 MARK 的看看学习哦
@@ -87,5 +90,7 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] 能不能游泳增高
 - [ ] 每周看下书吧 读英语吧
 - [ ] 洗面奶 精华露 补水美白什么的 找自己合适的不贵的
+- [ ] 吃饭 按时吃饭 按时睡觉 按时完成每天计划这样就不会熬夜 也不知道每天该干什么
+- [ ] 学习
 
 ---
