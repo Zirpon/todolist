@@ -9,6 +9,7 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 > 这是日常
 
 > recent monthly
+- [ ] 找活动 找组队生活 组队 打团玩  一个人不好玩 喜欢踢球 去踢球 
 - [ ] 看书 再不好看 也要把他完成 曾国藩
 - [ ] 阿哈算法 最后一章没有理解好 
 - [ ] 洗杯子
