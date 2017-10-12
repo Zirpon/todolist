@@ -19,6 +19,7 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] 帮华哥写牛牛
 - [ ] 买休闲鞋子
 - [ ] runnable，thread Java 区别
+- [ ] 周末想去游泳馆游水
 - [ ] 啊哈算法 希望这周能够看完但是现在周五了哦
 - [ ] 清理微博了 要把转回来 MARK 的看看学习哦
 
