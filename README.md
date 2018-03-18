@@ -9,17 +9,10 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 > 这是日常
 
 > recent monthly
-- [ ] 找一起玩的活动 喜欢玩什么 就去找什么 比如踢球  找球踢
-- [ ] 找一起写代码的 一起看书的小组
-- [ ] 找活动 找组队生活 组队 打团玩  一个人不好玩 喜欢踢球 去踢球 
-- [ ] 看书 再不好看 也要把他完成 曾国藩
 - [ ] 阿哈算法 最后一章没有理解好 
 - [ ] 剪头发
 - [x] 洗杯子
-- [ ] 帮华哥写牛牛
-- [ ] 买休闲鞋子
 - [ ] runnable，thread Java 区别
-- [ ] 周末想去游泳馆游水
 - [ ] 啊哈算法 希望这周能够看完但是现在周五了哦
 - [ ] 清理微博了 要把转回来 MARK 的看看学习哦
 
@@ -29,8 +22,6 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] 整理一下三国吧兄弟项目
 - [ ] 整理一下乱斗江湖的项目
 - [ ] 打呼噜 爹地 辅助器
-- [ ] 找个泳池健身房 有空就去游泳健身
-- [ ] 找个咖啡馆 或者24小时书店 阅读
 - [ ] 读书 曾国藩
 - [ ] 读书 编程珠玑
 - [ ] php runtime 优化
@@ -59,7 +50,6 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] 用laravel做一个博客
 - [ ] 用laravel做一个公司官方网站
 - [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
-- [ ] 大数据
 - [ ] 机器学习
 - [ ] 数据结构 算法
 - [ ] 菜鸟教程 C++
@@ -69,7 +59,6 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] java父子线程 关系
 - [ ] 高性能MySQL，Java代码，深度探索c++
 - [ ] java 入门与精通
-- [ ] 查资料如何技术移民
 - [ ] 搞搞微信小程序
 - [ ] C++ warcraft 项目继续做
 - [ ] 算了把 python 接手吧硬接 用来做公司SDK后台 python mongo 廖雪峰Python3.0 Django
@@ -90,7 +79,6 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 >regular
 - [ ] 学好一点英语,流畅口语 写作,tofel
-
 - [ ] 生活作息不对 要调整  要七点起床 11点睡觉 成年人要八小时睡眠
 - [ ] 每天能读点英语吗 口语 单词 你看看 效率低了很多
 - [ ] 好久没有踢球了 把体能练回来去踢球吧
