@@ -7,6 +7,9 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 ---
 > 这是日常
+- [ ] Python
+- [ ] Lua
+- [ ] skynet
 
 > recent monthly
 - [ ] 阿哈算法 最后一章没有理解好 
