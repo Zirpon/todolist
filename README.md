@@ -9,6 +9,9 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 > 这是日常
 - [ ] Python
 - [ ] Lua
+- [ ] linux socket select poll epoll
+- [ ] 功能内存 share mem
+
 - [ ] skynet
 
 > recent monthly
