@@ -8,6 +8,15 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 ---
 > 这是日常
 - [ ] C++ 高质量编程
+- [ ] 
+2、熟悉至少一种linux下的脚本语言，如Python；
+   3、精通常用网络协议TCP/IP协议，Http协议等；
+   4、熟悉Unix/Linux操作系统原理，常用工具；
+   5、熟悉Mysql/Oracle等数据库管理、开发、SQL调优；
+   6、有过独立完整设计复杂系统功能的经验；
+   7、有过高并发，高性能分布式开发经验；
+- [ ] 具备大容量、高性能系统的设计和架构能力；熟悉分布式系统的基础理论, 有高并发系统的架构设计、开发和调试经验
+- [ ] TCP/HTTP协议、socket编程、reactor网络框架
 - [ ] 分布式系统设计和实现
 - [ ] Mysql 调优
 - [ ] gdb
