@@ -8,6 +8,7 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 ---
 > 这是日常
 - [ ] C++ 高质量编程
+- [ ] 分布式系统设计和实现
 - [ ] Mysql 调优
 - [ ] gdb
 - [ ] Python
