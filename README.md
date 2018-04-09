@@ -7,6 +7,9 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 ---
 > 这是日常
+- [ ] C++ 高质量编程
+- [ ] Mysql 调优
+- [ ] gdb
 - [ ] Python
 - [ ] Lua
 - [ ] linux socket select poll epoll
