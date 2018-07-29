@@ -5,8 +5,6 @@
 TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 
----
-
 > technic
 
 - [x] C++ 高质量编程
@@ -58,8 +56,6 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] skynet 学习
 - [ ] xhprof php 性能测试插件
 
----
-
 > life
 
 - [ ] 打呼噜 爹地 辅助器
@@ -69,8 +65,6 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] 学钢琴
 - [ ] 学专业煮菜
 - [ ] 学好一点英语,流畅口语 写作,tofel
-
----
 
 > reminder
 
