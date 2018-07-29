@@ -1,12 +1,13 @@
-### todolist
----
+# todolist
+
 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 
 ---|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 
 ---
-> 这是日常
+
+> technic
 
 - [x] C++ 高质量编程
 - [ ]   4、熟悉Unix/Linux操作系统原理，常用工具；
@@ -22,8 +23,18 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [x] linux socket select poll epoll
 - [ ] 功能内存 share mem
 - [ ] skynet
-
-> recent monthly
+- [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
+- [ ] 机器学习
+- [ ] 数据结构 算法
+- [ ] 把 java 学透
+- [ ] java代码运用 到 C++ 框架里面
+- [ ] 直接搞u3d 或者 unreal
+- [ ] java父子线程 关系
+- [ ] 高性能MySQL，Java代码，深度探索c++
+- [ ] java 入门与精通
+- [ ] C++ warcraft 项目继续做
+- [ ] 皮卡丘机器人
+- [ ] 格斗之皇项目部署
 - [ ] 阿哈算法 最后一章没有理解好 
 - [ ] runnable，thread Java 区别
 - [ ] 清理微博了 要把转回来 MARK 的看看学习哦
@@ -31,9 +42,7 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] 整理一下挂机项目
 - [ ] 整理一下三国吧兄弟项目
 - [ ] 整理一下乱斗江湖的项目
-- [ ] 打呼噜 爹地 辅助器
-- [ ] 读书 曾国藩
-- [ ] 读书 编程珠玑
+
 - [ ] php runtime 优化
 - [ ] 并行请求swool curl_muti
 - [ ] opcode 缓存
@@ -51,34 +60,26 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 ---
 
->future season
+> life
+
+- [ ] 打呼噜 爹地 辅助器
+- [ ] 读书 曾国藩
+- [ ] 读书 编程珠玑
 - [ ] 学换轮胎 学一些必要修车技能
 - [ ] 学钢琴
 - [ ] 学专业煮菜
-- [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
-- [ ] 机器学习
-- [ ] 数据结构 算法
-- [ ] 菜鸟教程 C++
-- [ ] 把 java 学透
-- [ ] java代码运用 到 C++ 框架里面
-- [ ] 直接搞u3d 或者 unreal
-- [ ] java父子线程 关系
-- [ ] 高性能MySQL，Java代码，深度探索c++
-- [ ] java 入门与精通
-- [ ] C++ warcraft 项目继续做
-- [ ] 皮卡丘机器人
-- [ ] 格斗之皇项目部署
+- [ ] 学好一点英语,流畅口语 写作,tofel
 
 ---
 
->regular
-- [ ] 学好一点英语,流畅口语 写作,tofel
+> reminder
+
 - [ ] 生活作息不对 要调整  要七点起床 11点睡觉 成年人要八小时睡眠
 - [ ] 每天能读点英语吗 口语 单词 你看看 效率低了很多
 - [ ] 好久没有踢球了 把体能练回来去踢球吧
 - [ ] 能不能游泳
 - [ ] 每周看下书吧 读英语吧
-- [ ] 吃饭 按时吃饭 按时睡觉 按时完成每天计划这样就不会熬夜 也不知道每天该干什么
+- [ ] 吃饭 按时吃饭 按时睡觉 按时完成每天计划 这样就不会熬夜 也不知道每天该干什么
 - [ ] 学习
 
 ---
