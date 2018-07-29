@@ -56,6 +56,7 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 > life
 
+- [ ] 买沐浴露
 - [ ] 找游泳 办卡
 - [ ] 体检报告 南亭
 - [ ] 运动 踢球
