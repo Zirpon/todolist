@@ -7,6 +7,9 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 > technic
 
+- [ ] hazard version
+- [ ] lua 手册
+- [ ] skynet
 - [x] C++ 高质量编程
 - [ ]   4、熟悉Unix/Linux操作系统原理，常用工具；
 - [ ]   6、有过独立完整设计复杂系统功能的经验；
@@ -17,7 +20,6 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] Mysql 调优
 - [ ] gdb
 - [ ] Python
-- [x] Lua
 - [x] linux socket select poll epoll
 - [ ] 功能内存 share mem
 - [ ] skynet
@@ -50,12 +52,12 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] mysql学习笔记总结
 - [ ] 总结一下安全考试查网站漏洞的方法
 - [ ] 把php 入门的代码加入托管练习
-- [ ] lua学习
-- [ ] skynet 学习
 - [ ] xhprof php 性能测试插件
 
 > life
 
+- [ ] 找游泳 办卡
+- [ ] 体检报告 南亭
 - [ ] 打呼噜 爹地 辅助器
 - [ ] 读书 曾国藩
 - [ ] 读书 编程珠玑
