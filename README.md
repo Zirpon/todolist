@@ -7,36 +7,27 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 ---
 > 这是日常
-- [ ] C++ 高质量编程
-- [ ] 
-2、熟悉至少一种linux下的脚本语言，如Python；
-   3、精通常用网络协议TCP/IP协议，Http协议等；
-   4、熟悉Unix/Linux操作系统原理，常用工具；
-   5、熟悉Mysql/Oracle等数据库管理、开发、SQL调优；
-   6、有过独立完整设计复杂系统功能的经验；
-   7、有过高并发，高性能分布式开发经验；
+
+- [x] C++ 高质量编程
+- [ ]   4、熟悉Unix/Linux操作系统原理，常用工具；
+- [ ]   6、有过独立完整设计复杂系统功能的经验；
+- [ ]    7、有过高并发，高性能分布式开发经验；
 - [ ] 具备大容量、高性能系统的设计和架构能力；熟悉分布式系统的基础理论, 有高并发系统的架构设计、开发和调试经验
 - [ ] TCP/HTTP协议、socket编程、reactor网络框架
 - [ ] 分布式系统设计和实现
 - [ ] Mysql 调优
 - [ ] gdb
 - [ ] Python
-- [ ] Lua
-- [ ] linux socket select poll epoll
+- [x] Lua
+- [x] linux socket select poll epoll
 - [ ] 功能内存 share mem
-
 - [ ] skynet
 
 > recent monthly
 - [ ] 阿哈算法 最后一章没有理解好 
-- [ ] 剪头发
-- [x] 洗杯子
 - [ ] runnable，thread Java 区别
-- [ ] 啊哈算法 希望这周能够看完但是现在周五了哦
 - [ ] 清理微博了 要把转回来 MARK 的看看学习哦
 
-- [x] mssql 客户端 navicat 编码
-- [ ] 有调休会广州的话 回去办理公积金 社保 在线查询 的事情
 - [ ] 整理一下挂机项目
 - [ ] 整理一下三国吧兄弟项目
 - [ ] 整理一下乱斗江湖的项目
@@ -50,24 +41,20 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
       从数据库层面解决千万级大数据量查询慢的问题|
       使用binlog对数据库进行时间点的恢复
       从简单的主从复制到主从分离的多种解决方案
-      Keepalived+Lvs打造高可用可扩展的数据库架构
+- [x] Keepalived+Lvs打造高可用可扩展的数据库架构
 - [ ] mysql学习笔记总结
 - [ ] 总结一下安全考试查网站漏洞的方法
 - [ ] 把php 入门的代码加入托管练习
 - [ ] lua学习
-- [ ] skynet是怎么用的
+- [ ] skynet 学习
 - [ ] xhprof php 性能测试插件
 
 ---
 
 >future season
-- [ ] 读书 微信公众平台
 - [ ] 学换轮胎 学一些必要修车技能
 - [ ] 学钢琴
 - [ ] 学专业煮菜
-- [ ] C++ 趁这段经常使用的机会捉紧看书学习有印象  看深度探索那本 还有高质量那本 还有很多
-- [ ] 用laravel做一个博客
-- [ ] 用laravel做一个公司官方网站
 - [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
 - [ ] 机器学习
 - [ ] 数据结构 算法
@@ -78,21 +65,9 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] java父子线程 关系
 - [ ] 高性能MySQL，Java代码，深度探索c++
 - [ ] java 入门与精通
-- [ ] 搞搞微信小程序
 - [ ] C++ warcraft 项目继续做
-- [ ] 算了把 python 接手吧硬接 用来做公司SDK后台 python mongo 廖雪峰Python3.0 Django
-
-- [ ] 今年个人项目要上线：年底上线
-        4月做出服务器底层
-        5月6月调试服务端客户端的通信
-        7月到10月做客户端
-        11月发版，12月上线
-        计划6月份前要开始写应用
-- [ ] C++项目 COCOS2D工程 lua工程 U3D工程
-- [ ] 计划个人项目启动：启动！3月份，4月份计划把格斗之皇底层移植到人魔之战
 - [ ] 皮卡丘机器人
 - [ ] 格斗之皇项目部署
-
 
 ---
 
@@ -101,9 +76,8 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] 生活作息不对 要调整  要七点起床 11点睡觉 成年人要八小时睡眠
 - [ ] 每天能读点英语吗 口语 单词 你看看 效率低了很多
 - [ ] 好久没有踢球了 把体能练回来去踢球吧
-- [ ] 能不能游泳增高
+- [ ] 能不能游泳
 - [ ] 每周看下书吧 读英语吧
-- [ ] 洗面奶 精华露 补水美白什么的 找自己合适的不贵的
 - [ ] 吃饭 按时吃饭 按时睡觉 按时完成每天计划这样就不会熬夜 也不知道每天该干什么
 - [ ] 学习
 
