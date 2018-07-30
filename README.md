@@ -10,6 +10,9 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] hazard version
 - [ ] lua 手册
 - [ ] skynet
+- [ ] rocketmq 接口源码
+- [ ] binary-sort tree c 实现 优化handle name retire 遍历
+- [ ] lua red-black tree 数据接口实现
 - [x] C++ 高质量编程
 - [ ]   4、熟悉Unix/Linux操作系统原理，常用工具；
 - [ ]   6、有过独立完整设计复杂系统功能的经验；
@@ -56,7 +59,8 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 > life
 
-- [ ] 买沐浴露
+- [x] 买沐浴露
+- [ ] 安卓机玩公主 家里平板
 - [ ] 找游泳 办卡
 - [ ] 体检报告 南亭
 - [ ] 运动 踢球
