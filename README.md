@@ -6,7 +6,6 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 
 > technic
-- [ ] 六点半回去拿沐浴露 肥皂用完了
 - [ ] hazard version
 - [ ] lua 手册
 - [ ] skynet
@@ -59,7 +58,7 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 > life
 
-- [x] 买沐浴露
+- [ ] 六点半回去拿沐浴露 肥皂用完了
 - [ ] 安卓机玩公主 家里平板
 - [ ] 找游泳 办卡
 - [ ] 体检报告 南亭
