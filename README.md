@@ -6,6 +6,13 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 
 > technic
+
+- [ ] jemalloc 源码 如何申请内存与分配内存
+- [ ] go learning
+- [ ] kbengine
+- [ ] protobuf 源码
+- [ ] redis 源码
+- [ ] MongoDB 源码
 - [ ] hazard version
 - [ ] lua 手册
 - [ ] skynet
@@ -13,9 +20,9 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] binary-sort tree c 实现 优化handle name retire 遍历
 - [ ] lua red-black tree 数据接口实现
 - [x] C++ 高质量编程
-- [ ]   4、熟悉Unix/Linux操作系统原理，常用工具；
-- [ ]   6、有过独立完整设计复杂系统功能的经验；
-- [ ]    7、有过高并发，高性能分布式开发经验；
+- [ ] 熟悉Unix/Linux操作系统原理，常用工具；
+- [ ] 有过独立完整设计复杂系统功能的经验；
+- [ ] 有过高并发，高性能分布式开发经验；
 - [ ] 具备大容量、高性能系统的设计和架构能力；熟悉分布式系统的基础理论, 有高并发系统的架构设计、开发和调试经验
 - [ ] TCP/HTTP协议、socket编程、reactor网络框架
 - [ ] 分布式系统设计和实现
