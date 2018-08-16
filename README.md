@@ -65,6 +65,8 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 > life
 
+- [ ] 止咳化痰 南亭 大参林 药店
+- [ ] 眼药水
 - [ ] 我觉得我真的得要认真看看怎么减肥的了 身体太笨重了 不灵活
 - [ ] 剪指甲
 - [ ] 安卓机玩公主 家里平板
