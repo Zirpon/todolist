@@ -65,6 +65,9 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 > life
 
+- [ ] 长镜
+- [ ] 电子秤
+- [ ] 杯盖
 - [ ] 止咳化痰 南亭 大参林 药店
 - [ ] 眼药水
 - [ ] 我觉得我真的得要认真看看怎么减肥的了 身体太笨重了 不灵活
