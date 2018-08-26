@@ -66,6 +66,7 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 > life
 
 - [ ] 袜子架
+- [ ] 耳机🎧怎么处理 修还是捐还好扔还是送
 - [ ] ipad 无线分屏 mac
 - [ ] 电子秤
 - [ ] 衣服捐献
