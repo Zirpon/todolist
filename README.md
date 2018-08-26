@@ -65,7 +65,8 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 > life
 
-- [ ] 长镜
+- [ ] 袜子架
+- [ ] ipad 无线分屏 mac
 - [ ] 电子秤
 - [ ] 衣服捐献
 - [ ] 杯盖
