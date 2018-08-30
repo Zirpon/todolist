@@ -57,7 +57,6 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] 从数据库层面解决千万级大数据量查询慢的问题|
 - [ ] 使用binlog对数据库进行时间点的恢复
 - [ ] 从简单的主从复制到主从分离的多种解决方案
-- [x] Keepalived+Lvs打造高可用可扩展的数据库架构
 - [ ] mysql学习笔记总结
 - [ ] 总结一下安全考试查网站漏洞的方法
 - [ ] 把php 入门的代码加入托管练习
