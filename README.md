@@ -13,6 +13,23 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] 阿哈算法 finish
 - [ ] 操作系统精髓与设计原理 看5个章节
 - [ ] 容器 docker kerbernate 部署一下
+- [ ] valgrind, pmap, /proc/meminfo, iostat, vmstab, match/sar
+- [ ] redis key O(log(n)) SCAN 代替
+- [ ] lua内存泄漏
+
+`later`
+
+- [ ] cmake
+- [ ] python
+- [ ] mongodb
+- [ ] skynet
+- [ ] rocketmq
+- [ ] hazard version
+- [ ] tborg, chubby设计 paxos算法 zookeeper
+- [ ] go
+- [ ] kbengine
+- [ ] jemalloc
+- [ ] protobuf
 
 `further`
 
