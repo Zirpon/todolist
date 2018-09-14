@@ -7,6 +7,15 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 > technic
 
+`this week`
+
+- [ ] 绿皮数据结构 finish
+- [ ] 阿哈算法 finish
+- [ ] 操作系统精髓与设计原理 看5个章节
+- [ ] 容器 docker kerbernate 部署一下
+
+`further`
+
 - [ ] jemalloc 源码 如何申请内存与分配内存
 - [ ] go learning
 - [ ] kbengine
