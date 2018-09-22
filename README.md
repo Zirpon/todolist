@@ -7,6 +7,32 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 > technic
 
+`this week`
+
+- [ ] 绿皮数据结构 finish
+- [ ] 阿哈算法 finish
+- [ ] 操作系统精髓与设计原理 看5个章节
+- [ ] 容器 docker kerbernate 部署一下
+- [ ] valgrind, pmap, /proc/meminfo, iostat, vmstab, match/sar
+- [ ] redis key O(log(n)) SCAN 代替
+- [ ] lua内存泄漏
+
+`later`
+
+- [ ] cmake
+- [ ] python
+- [ ] mongodb
+- [ ] skynet
+- [ ] rocketmq
+- [ ] hazard version
+- [ ] tborg, chubby设计 paxos算法 zookeeper
+- [ ] go
+- [ ] kbengine
+- [ ] jemalloc
+- [ ] protobuf
+
+`further`
+
 - [ ] jemalloc 源码 如何申请内存与分配内存
 - [ ] go learning
 - [ ] kbengine
@@ -64,8 +90,14 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 > life
 
+<<<<<<< HEAD
 - [ ] 耳机🎧怎么处理 修还是捐还好扔还是送
 - [ ] ipad 无线分屏 mac
+=======
+- [ ] 全家咖啡券
+- [ ] 全家燃茶券
+- [ ] 耳机🎧怎么处理 修还是捐还好扔还是送
+>>>>>>> e3defd252e817c2174784a483583194082b2a4a5
 - [ ] 衣服捐献
 - [ ] 我觉得我真的得要认真看看怎么减肥的了 身体太笨重了 不灵活
 - [ ] 安卓机玩公主 家里平板
@@ -85,5 +117,6 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - 生活作息不对 要调整  要七点起床 11点睡觉 成年人要八小时睡眠
 - 吃饭 按时吃饭 按时睡觉 按时完成每天计划 这样就不会熬夜 就不会不知道每天该干什么
 - 学习
+- 看着自己一天天腐烂 行将就木 张一山92年 毕业 15年毕业 工作2年半 我感到非常痛心 这些年我究竟怎么过来的
 
 ---
