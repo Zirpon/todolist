@@ -91,7 +91,7 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 > life
 
 - [ ] 双11 买什么: 秋冬运动 裤子衣服 买红米6 健身套装
-- [ ] 修手机
+- [ ] 修手机 ip7plus 小米4
 - [x] 买个颈枕家里&出门
 - [x] 洗鞋子
 - [x] 洗被子
