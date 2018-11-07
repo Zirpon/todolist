@@ -9,7 +9,6 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 `today`
 
-- [x] redis key O(log(n)) SCAN 代替
 - [ ] valgrind, pmap, /proc/meminfo, iostat, vmstab, match/sar
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] java父子线程 关系
@@ -26,6 +25,12 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] 从简单的主从复制到主从分离的多种解决方案
 - [ ] mysql学习笔记总结
 - [ ] 高性能MySQL，Java代码，深度探索c++
+- [ ] 双十一阿里云
+- [ ] TCP/IP 一二章
+- [ ] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装
+- [ ] 修手机 ip7plus 小米4
+- [ ] 找游泳 办卡
+- [ ] 打呼噜 爹地 辅助器
 
 `this week`
 
@@ -92,14 +97,9 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 > life
 
-- [ ] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装
-- [ ] 修手机 ip7plus 小米4
-
 - [ ] 耳机🎧怎么处理 修还是捐还好扔还是送
 - [ ] 衣服捐献
 - [ ] 我觉得我真的得要认真看看怎么减肥的了 身体太笨重了 不灵活
-- [ ] 找游泳 办卡
-- [ ] 打呼噜 爹地 辅助器
 - [ ] 读书 曾国藩
 - [ ] 读书 编程珠玑
 - [ ] 读英语 练习口语 单词 阅读英文报刊
