@@ -9,6 +9,36 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 `today`
 
+timeline | course |
+:-------:|:-----: |
+07:00 ~ 08:00 | |
+08:00 ~ 09:00 | |
+09:00 ~ 09:30 | on work
+09:30 ~ 10:00 | |
+10:00 ~ 10:45 | |
+10:45 ~ 11:00 | order delivery
+11:00 ~ 11:50 | |
+11:50 ~ 12:00 | delivery pickup
+12:00 ~ 12:30 | |
+12:30 ~ 13:00 | |
+13:00 ~ 13:50 | |
+13:50 ~ 14:00 | |
+14:00 ~ 14:45 | |
+14:45 ~ 15:00 | |
+15:00 ~ 15:45 | |
+15:45 ~ 16:00 | |
+16:45 ~ 17:45 | |
+17:45 ~ 18:00 | |
+18:00 ~ 18:30 | |
+18:30 ~ 19:00 | |
+19:00 ~ 19:30 | |
+19:30 ~ 20:00 | |
+20:00 ~ 21:00 | |
+21:00 ~ 21:30 | |
+21:30 ~ 22:00 | |
+22:00 ~ 23:00 | |
+23:00 ~ 23:30 | |
+
 - [ ] valgrind, pmap, /proc/meminfo, iostat, vmstab, match/sar
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] java父子线程 关系
@@ -31,6 +61,7 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] 修手机 ip7plus 小米4
 - [ ] 找游泳 办卡
 - [ ] 打呼噜 爹地 辅助器
+- [ ] 继续看ipd 服
 
 `this week`
 
@@ -39,7 +70,6 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] 操作系统精髓与设计原理 看5个章节
 - [ ] 容器 docker kerbernate 部署一下
 - [ ] lua内存泄漏
-
 
 `later`
 
