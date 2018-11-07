@@ -7,25 +7,43 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 
 > technic
 
+`today`
+
+- [x] redis key O(log(n)) SCAN 代替
+- [ ] valgrind, pmap, /proc/meminfo, iostat, vmstab, match/sar
+- [ ] tborg, chubby设计 paxos算法 zookeeper
+- [ ] java父子线程 关系
+- [ ] java 入门与精通
+- [x] linux socket select poll epoll
+- [ ] runnable，thread Java 区别
+- [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
+- [ ] 把 java 学透
+- [ ] java代码运用 到 C++ 框架里面
+- [ ] opcode 缓存
+- [ ] 数据库规范化设计高性能可扩展的数据库架构|
+- [ ] 从数据库层面解决千万级大数据量查询慢的问题|
+- [ ] 使用binlog对数据库进行时间点的恢复
+- [ ] 从简单的主从复制到主从分离的多种解决方案
+- [ ] mysql学习笔记总结
+- [ ] 高性能MySQL，Java代码，深度探索c++
+
 `this week`
 
 - [ ] 绿皮数据结构 finish
 - [ ] 阿哈算法 finish
 - [ ] 操作系统精髓与设计原理 看5个章节
 - [ ] 容器 docker kerbernate 部署一下
-- [ ] valgrind, pmap, /proc/meminfo, iostat, vmstab, match/sar
-- [ ] redis key O(log(n)) SCAN 代替
 - [ ] lua内存泄漏
+
 
 `later`
 
-- [ ] cmake
+- [x] cmake
 - [ ] python
 - [ ] mongodb
 - [ ] skynet
 - [ ] rocketmq
 - [ ] hazard version
-- [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] go
 - [ ] kbengine
 - [ ] jemalloc
@@ -55,52 +73,32 @@ TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
 - [ ] Mysql 调优
 - [ ] gdb
 - [ ] Python
-- [x] linux socket select poll epoll
 - [ ] 功能内存 share mem
 - [ ] skynet
-- [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
 - [ ] 机器学习
 - [ ] 数据结构 算法
-- [ ] 把 java 学透
-- [ ] java代码运用 到 C++ 框架里面
 - [ ] 直接搞u3d 或者 unreal
-- [ ] java父子线程 关系
-- [ ] 高性能MySQL，Java代码，深度探索c++
-- [ ] java 入门与精通
 - [ ] C++ warcraft 项目继续做
 - [ ] 皮卡丘机器人
 - [ ] 格斗之皇项目部署
 - [ ] 阿哈算法 最后一章没有理解好
-- [ ] runnable，thread Java 区别
 - [ ] 清理微博了 要把转回来 MARK 的看看学习哦
 - [ ] 整理一下挂机项目
 - [ ] 整理一下三国吧兄弟项目
 - [ ] 整理一下乱斗江湖的项目
 - [ ] php runtime 优化
 - [ ] 并行请求swool curl_muti
-- [ ] opcode 缓存
-- [ ] 数据库规范化设计高性能可扩展的数据库架构|
-- [ ] 从数据库层面解决千万级大数据量查询慢的问题|
-- [ ] 使用binlog对数据库进行时间点的恢复
-- [ ] 从简单的主从复制到主从分离的多种解决方案
-- [ ] mysql学习笔记总结
-- [ ] 总结一下安全考试查网站漏洞的方法
-- [ ] 把php 入门的代码加入托管练习
 - [ ] xhprof php 性能测试插件
 
 > life
 
-- [ ] 双11 买什么: 秋冬运动 裤子衣服 买红米6 健身套装
+- [ ] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装
 - [ ] 修手机 ip7plus 小米4
-- [x] 买个颈枕家里&出门
-- [x] 洗鞋子
-- [x] 洗被子
+
 - [ ] 耳机🎧怎么处理 修还是捐还好扔还是送
 - [ ] 衣服捐献
 - [ ] 我觉得我真的得要认真看看怎么减肥的了 身体太笨重了 不灵活
-- [x] 安卓机玩公主 家里平板
 - [ ] 找游泳 办卡
-- [x] 运动 踢球
 - [ ] 打呼噜 爹地 辅助器
 - [ ] 读书 曾国藩
 - [ ] 读书 编程珠玑
