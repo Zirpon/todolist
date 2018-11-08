@@ -34,7 +34,7 @@ timeline | course |
 22:00 ~ 23:00 | |
 23:00 ~ 23:30 | |
 
-- [ ] valgrind, pmap, /proc/meminfo, iostat, vmstab, match/sar
+- [x] valgrind, pmap, /proc/meminfo, iostat, vmstat, match/sar
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] java父子线程 关系
 - [ ] java 入门与精通
@@ -77,6 +77,7 @@ timeline | course |
 
 `further`
 
+- [ ] /proc/meminfo, iostat,
 - [ ] jemalloc 源码 如何申请内存与分配内存
 - [ ] go learning
 - [ ] kbengine
