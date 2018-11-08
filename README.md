@@ -10,13 +10,13 @@ timeline | course |
 08:00 ~ 09:00 | |
 09:00 ~ 09:30 | on work
 09:30 ~ 10:00 | |
-10:00 ~ 10:45 | |
+10:00 ~ 10:45 | valgrind, pmap, /proc/meminfo, iostat, vmstab, match/sar, tborg, chubby设计 paxos算法 zookeeper |
 10:45 ~ 11:00 | order delivery
-11:00 ~ 11:50 | |
+11:00 ~ 11:50 | java 入门与精通 runnable，thread Java 区别 opcode 缓存 |
 11:50 ~ 12:00 | delivery pickup
 12:00 ~ 12:30 | |
-12:30 ~ 13:00 | |
-13:00 ~ 13:50 | |
+12:30 ~ 13:00 | TCP/IP 一二章 |
+13:00 ~ 13:50 | nap |
 13:50 ~ 14:00 | |
 14:00 ~ 14:45 | |
 14:45 ~ 15:00 | |
@@ -41,8 +41,6 @@ timeline | course |
 - [x] linux socket select poll epoll
 - [ ] runnable，thread Java 区别
 - [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
-- [ ] 把 java 学透
-- [ ] java代码运用 到 C++ 框架里面
 - [ ] opcode 缓存
 - [ ] 数据库规范化设计高性能可扩展的数据库架构|
 - [ ] 从数据库层面解决千万级大数据量查询慢的问题|
@@ -50,13 +48,11 @@ timeline | course |
 - [ ] 从简单的主从复制到主从分离的多种解决方案
 - [ ] mysql学习笔记总结
 - [ ] 高性能MySQL，Java代码，深度探索c++
-- [ ] 双十一阿里云
 - [ ] TCP/IP 一二章
 - [ ] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装
 - [ ] 修手机 ip7plus 小米4
 - [ ] 找游泳 办卡
 - [ ] 打呼噜 爹地 辅助器
-- [ ] 继续看ipd 服
 
 `this week`
 
