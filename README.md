@@ -8,29 +8,29 @@ timeline | course |
 :-------:|:-----: |
 07:00 ~ 08:00 | |
 08:00 ~ 09:00 | |
-09:00 ~ 09:30 | on work
+09:00 ~ 09:30 | on work |
 09:30 ~ 10:00 | |
-10:00 ~ 10:45 | valgrind, pmap, /proc/meminfo, iostat, vmstab, match/sar, tborg, chubby设计 paxos算法 zookeeper |
-10:45 ~ 11:00 | order delivery
-11:00 ~ 11:50 | java 入门与精通 runnable，thread Java 区别 opcode 缓存 |
-11:50 ~ 12:00 | delivery pickup
-12:00 ~ 12:30 | |
+10:00 ~ 10:45 | dispatch |
+10:45 ~ 11:00 | order delivery |
+11:00 ~ 11:50 | dispatch |
+11:50 ~ 12:00 | delivery pickup |
+12:00 ~ 12:30 | delivery pickup |
 12:30 ~ 13:00 | TCP/IP 一二章 |
 13:00 ~ 13:50 | nap |
 13:50 ~ 14:00 | |
-14:00 ~ 14:45 | |
-14:45 ~ 15:00 | |
-15:00 ~ 15:45 | |
-15:45 ~ 16:00 | |
-16:45 ~ 17:45 | |
-17:45 ~ 18:00 | |
-18:00 ~ 18:30 | |
+14:00 ~ 14:45 | dispatch |
+14:45 ~ 15:00 | dispatch |
+15:00 ~ 15:45 | dispatch |
+15:45 ~ 16:00 | dispatch |
+16:45 ~ 17:45 | dispatch |
+17:45 ~ 18:00 | dispatch |
+18:00 ~ 18:30 | dispatch |
 18:30 ~ 19:00 | sport |
-19:00 ~ 19:30 | |
-19:30 ~ 20:00 | |
-20:00 ~ 21:00 | |
-21:00 ~ 21:30 | |
-21:30 ~ 22:00 | |
+19:00 ~ 19:30 | bash dinner |
+19:30 ~ 20:00 | dispatch |
+20:00 ~ 21:00 | dispatch |
+21:00 ~ 21:30 | dispatch |
+21:30 ~ 22:00 | dispatch |
 22:00 ~ 23:00 | |
 23:00 ~ 23:30 | |
 
@@ -49,7 +49,7 @@ timeline | course |
 - [ ] mysql学习笔记总结
 - [ ] 高性能MySQL，Java代码，深度探索c++
 - [ ] TCP/IP 一二章
-- [ ] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装
+- [ ] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装 耳机
 - [ ] 修手机 ip7plus 小米4
 - [ ] 找游泳 办卡
 - [ ] 打呼噜 爹地 辅助器
