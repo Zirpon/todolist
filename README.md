@@ -34,7 +34,11 @@ timeline | course |
 22:00 ~ 23:00 | |
 23:00 ~ 23:30 | |
 
-- [x] valgrind, pmap, /proc/meminfo, iostat, vmstat, match/sar
+- [ ] 赵丽颖老公
+- [ ] 天猫双十一 购物车
+- [ ] TCP/IP 第一卷
+- [ ] 华为充电
+
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] java父子线程 关系
 - [ ] java 入门与精通
@@ -49,10 +53,13 @@ timeline | course |
 - [ ] mysql学习笔记总结
 - [ ] 高性能MySQL，Java代码，深度探索c++
 - [ ] TCP/IP 一二章
+<<<<<<< HEAD
 - [ ] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装 耳机
+=======
+- [ ] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装 打呼噜
+>>>>>>> fba47be80aacd76d6416599593ae1e6a1f5e6047
 - [ ] 修手机 ip7plus 小米4
 - [ ] 找游泳 办卡
-- [ ] 打呼噜 爹地 辅助器
 
 `this week`
 
