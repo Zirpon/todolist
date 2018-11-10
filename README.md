@@ -39,7 +39,6 @@ timeline | course |
 - [ ] TCP/IP 第一卷
 - [ ] 华为充电
 
-- [x] valgrind, pmap, /proc/meminfo, iostat, vmstat, match/sar
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] java父子线程 关系
 - [ ] java 入门与精通
