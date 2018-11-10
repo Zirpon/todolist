@@ -34,6 +34,10 @@ timeline | course |
 22:00 ~ 23:00 | |
 23:00 ~ 23:30 | |
 
+- [ ] 赵丽颖老公
+- [ ] 天猫双十一 购物车
+- [ ] TCP/IP 第一卷
+
 - [x] valgrind, pmap, /proc/meminfo, iostat, vmstat, match/sar
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] java父子线程 关系
@@ -49,10 +53,9 @@ timeline | course |
 - [ ] mysql学习笔记总结
 - [ ] 高性能MySQL，Java代码，深度探索c++
 - [ ] TCP/IP 一二章
-- [ ] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装
+- [ ] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装 打呼噜
 - [ ] 修手机 ip7plus 小米4
 - [ ] 找游泳 办卡
-- [ ] 打呼噜 爹地 辅助器
 
 `this week`
 
