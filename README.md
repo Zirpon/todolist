@@ -37,6 +37,7 @@ timeline | course |
 - [ ] 赵丽颖老公
 - [ ] 天猫双十一 购物车
 - [ ] TCP/IP 第一卷
+- [ ] 华为充电
 
 - [x] valgrind, pmap, /proc/meminfo, iostat, vmstat, match/sar
 - [ ] tborg, chubby设计 paxos算法 zookeeper
