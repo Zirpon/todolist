@@ -34,28 +34,27 @@ timeline | course |
 22:00 ~ 23:00 | |
 23:00 ~ 23:30 | |
 
-- [ ] 赵丽颖老公
-- [ ] 天猫双十一 购物车
 - [ ] TCP/IP 第一卷
-- [ ] 华为充电
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
+- [x] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装 打呼噜 耳机
+- [x] linux socket select poll epoll
+- [ ] 高性能MySQL，Java代码，深度探索c++
+- [ ] TCP/IP 一二章
+- [ ] 修手机 ip7plus 小米4
+- [ ] 找游泳 办卡
+
 - [ ] java父子线程 关系
 - [ ] java 入门与精通
-- [x] linux socket select poll epoll
 - [ ] runnable，thread Java 区别
 - [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
 - [ ] opcode 缓存
-- [ ] 数据库规范化设计高性能可扩展的数据库架构|
-- [ ] 从数据库层面解决千万级大数据量查询慢的问题|
+- [ ] 数据库规范化设计高性能可扩展的数据库架构
+- [ ] 从数据库层面解决千万级大数据量查询慢的问题
 - [ ] 使用binlog对数据库进行时间点的恢复
 - [ ] 从简单的主从复制到主从分离的多种解决方案
 - [ ] mysql学习笔记总结
-- [ ] 高性能MySQL，Java代码，深度探索c++
-- [ ] TCP/IP 一二章
-- [ ] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装 打呼噜 耳机
-- [ ] 修手机 ip7plus 小米4
-- [ ] 找游泳 办卡
+
 
 `this week`
 
