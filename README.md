@@ -39,12 +39,16 @@ timeline | course |
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [x] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装 打呼噜 耳机
 - [x] linux socket select poll epoll
-- [ ] 高性能MySQL，Java代码，深度探索c++
+- [ ] 高性能MySQL，深度探索c++
 - [ ] TCP/IP 一二章
 - [ ] 修手机 ip7plus 小米4
 - [ ] 找游泳 办卡
+- [ ] 洗衣服
+- [ ] 退掉昨晚的手机
+- [ ] 修改 pdf 简历 发给猎头 提交到BOSS
 
 - [ ] java父子线程 关系
+- [ ] Java代码
 - [ ] java 入门与精通
 - [ ] runnable，thread Java 区别
 - [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
