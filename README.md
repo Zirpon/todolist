@@ -35,6 +35,7 @@ timeline | course |
 23:00 ~ 23:30 | |
 
 - [ ] TCP/IP 第一卷
+- [ ] iptables
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [x] 双11 买什么: 秋冬运动 裤子衣服 买360 N7Lite 健身套装 打呼噜 耳机
@@ -43,7 +44,7 @@ timeline | course |
 - [ ] TCP/IP 一二章
 - [ ] 修手机 ip7plus 小米4
 - [ ] 找游泳 办卡
-- [ ] 洗衣服
+- [x] 洗衣服
 - [x] 退掉昨晚的手机
 - [x] 修改 pdf 简历 发给猎头 提交到BOSS
 
