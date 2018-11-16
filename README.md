@@ -38,6 +38,8 @@ timeline | course |
 - [ ] iptables
 - [ ] 手机Chrome 登录
 - [ ] 寄鞋子
+- [ ] 消息截断 解包失败 处理 格斗之皇 算法
+- [ ] herox 网站
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [x] linux socket select poll epoll
