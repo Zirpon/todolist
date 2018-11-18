@@ -46,7 +46,6 @@ timeline | course |
 - [ ] 高性能MySQL，深度探索c++
 - [ ] TCP/IP 一二章
 - [ ] 找游泳 办卡
-- [x] 退掉昨晚的手机
 - [ ] blog 博客
 - [ ] mysql slave 主从同步
 - [ ] redis 集群
