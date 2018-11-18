@@ -48,7 +48,6 @@ timeline | course |
 - [ ] 找游泳 办卡
 - [ ] 退掉昨晚的手机
 - [ ] blog 博客
-- [ ] 寄鞋子
 - [ ] mysql slave 主从同步
 - [ ] redis 集群
 
