@@ -47,6 +47,13 @@ timeline | course |
 - [ ] TCP/IP 一二章
 - [ ] 修手机 ip7plus 小米4
 - [ ] 找游泳 办卡
+- [ ] 洗衣服
+- [ ] 退掉昨晚的手机
+- [ ] 修改 pdf 简历 发给猎头 提交到BOSS
+- [ ] blog 博客
+- [ ] 寄鞋子
+- [ ] mysql slave 主从同步
+- [ ] redis 集群
 
 - [ ] java父子线程 关系
 - [ ] Java代码
