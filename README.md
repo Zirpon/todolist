@@ -39,16 +39,16 @@ timeline | course |
 - [ ] 手机Chrome 登录
 - [ ] 寄鞋子
 - [ ] 消息截断 解包失败 处理 格斗之皇 算法
-- [ ] herox 网站
-
+- [ ] blog 博客
+- [ ] mysql slave 主从同步
+- [ ] redis 集群
 - [ ] tborg, chubby设计 paxos算法 zookeeper
+
 - [x] linux socket select poll epoll
 - [ ] 高性能MySQL，深度探索c++
 - [ ] TCP/IP 一二章
 - [ ] 找游泳 办卡
-- [ ] blog 博客
-- [ ] mysql slave 主从同步
-- [ ] redis 集群
+
 
 - [ ] java父子线程 关系
 - [ ] Java代码
