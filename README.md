@@ -43,6 +43,7 @@ timeline | course |
 - [ ] mysql 同步
 - [ ] mysql slave 主从同步
 - [ ] redis 集群
+- [ ] 安卓pdf 阅读器
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 
