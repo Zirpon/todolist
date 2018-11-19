@@ -43,12 +43,16 @@ timeline | course |
 - [ ] 安卓GitHub客户端
 - [ ] 阿里云国内服务器 blog相应太慢
 - [ ] mysql 同步
+- [x] blog 博客
+- [ ] mysql slave 主从同步
+- [ ] redis 集群
+
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
+
 - [x] linux socket select poll epoll
 - [ ] 高性能MySQL，深度探索c++
 - [ ] TCP/IP 一二章
-- [ ] 修手机 ip7plus 小米4
 - [ ] 找游泳 办卡
 
 - [ ] java父子线程 关系
