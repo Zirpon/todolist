@@ -44,7 +44,6 @@ timeline | course |
 - [ ] mysql slave 主从同步
 - [ ] redis 集群
 
-
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 
 - [x] linux socket select poll epoll
