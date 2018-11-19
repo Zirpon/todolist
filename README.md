@@ -40,7 +40,7 @@ timeline | course |
 - [ ] 寄鞋子
 - [ ] 消息截断 解包失败 处理 格斗之皇 算法
 - [x] herox 网站
-- [ ] 安卓GitHub客户端
+- [x] 安卓GitHub客户端
 - [ ] 阿里云国内服务器 blog相应太慢
 - [ ] mysql 同步
 - [x] blog 博客
