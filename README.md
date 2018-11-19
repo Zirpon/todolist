@@ -39,7 +39,10 @@ timeline | course |
 - [ ] 手机Chrome 登录
 - [ ] 寄鞋子
 - [ ] 消息截断 解包失败 处理 格斗之皇 算法
-- [ ] herox 网站
+- [x] herox 网站
+- [ ] 安卓GitHub客户端
+- [ ] 阿里云国内服务器 blog相应太慢
+- [ ] mysql 同步
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [x] linux socket select poll epoll
