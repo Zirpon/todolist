@@ -108,7 +108,7 @@ mysql> flush privileges;
 ```
 
 - [ ] TCP/IP 第一卷
-- [ ] iptables
+- [x] iptables
 - [ ] 手机Chrome 登录
 - [ ] 寄鞋子
 - [ ] 消息截断 解包失败 处理 格斗之皇 算法
@@ -118,10 +118,6 @@ mysql> flush privileges;
 - [ ] redis 集群
 - [ ] 安卓pdf 阅读器
 - [ ] vscode java 调试 工程
-- [x] 3m口罩使用方法
-- [x] 维修状态
-- [x] 百度网盘自动照片备份找回
-- [x] 百度网盘 注册 mum 手机 短信 ipad 下载
 - [ ] linkin 消息处理
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
