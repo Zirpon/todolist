@@ -114,6 +114,7 @@ mysql> flush privileges;
 - [ ] 维修状态
 - [ ] 百度网盘自动照片备份找回
 - [ ] 百度网盘 注册 mum 手机 短信 ipad 下载
+- [ ] linkin 消息处理
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 
