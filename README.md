@@ -43,6 +43,7 @@ timeline | course |
 - [ ] mysql slave 主从同步
 - [ ] redis 集群
 - [ ] tborg, chubby设计 paxos算法 zookeeper
+- [ ] 隐藏 nginx 文件服务器 访问地址
 
 - [x] linux socket select poll epoll
 - [ ] 高性能MySQL，深度探索c++
