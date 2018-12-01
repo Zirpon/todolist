@@ -49,6 +49,7 @@ timeline | course |
 - [ ] 安卓pdf 阅读器
 - [ ] vscode java 调试 工程
 - [ ] linkin 消息处理
+- [ ] 把昨天晚上解最多合集活动的问题的代码写blog
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] 隐藏 nginx 文件服务器 访问地址
