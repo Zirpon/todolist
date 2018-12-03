@@ -49,6 +49,7 @@ timeline | course |
 - [ ] 还有上周了解到的那个数数科技 运营后台 基于大数据平台设计 hbase 列式存储 hadoop spark 计算引擎 MapReduce zookeeper 分布式组件管理
 - [ ] 换一下wechat背景吧
 - [ ] 做运动 YouTube 跳起来拍手那个
+- [ ] 带上手机带 以防想跑跑步
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] 隐藏 nginx 文件服务器 访问地址
