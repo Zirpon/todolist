@@ -39,17 +39,12 @@ timeline | course |
 - [ ] TCP/IP 第一卷
 - [ ] 掉头发的原因
 - [x] iptables
-- [x] 手机Chrome 登录
-- [x] 寄鞋子
 - [ ] 消息截断 解包失败 处理 格斗之皇 算法
 - [ ] 阿里云国内服务器 blog相应太慢
 - [ ] mysql 同步
 - [ ] mysql slave 主从同步
-- [x] redis 集群
-- [x] 安卓pdf 阅读器
 - [ ] vscode java 调试 工程
 - [ ] linkin 消息处理
-- [x] 把昨天晚上解最多合集活动的问题的代码写blog
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] 隐藏 nginx 文件服务器 访问地址
