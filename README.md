@@ -37,6 +37,8 @@ timeline | course |
 ---
 
 - [ ] TCP/IP 第一卷
+- [ ] 看华哥hbus的设计
+- [ ] java 线程同步 锁 共享内存 synchronized
 - [ ] 掉头发的原因
 - [x] iptables
 - [ ] 消息截断 解包失败 处理 格斗之皇 算法
@@ -50,6 +52,8 @@ timeline | course |
 - [ ] 换一下wechat背景吧
 - [ ] 做运动 YouTube 跳起来拍手那个
 - [ ] 带上手机带 以防想跑跑步
+- [ ] 看看itchat 群消息 消息类型 比如 定位 连接分享
+- [ ] LinkedHashMap
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] 隐藏 nginx 文件服务器 访问地址
