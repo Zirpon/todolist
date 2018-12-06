@@ -54,6 +54,7 @@ timeline | course |
 - [ ] 带上手机带 以防想跑跑步
 - [ ] 看看itchat 群消息 消息类型 比如 定位 连接分享
 - [ ] LinkedHashMap
+- [ ] 晾衣服
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] 隐藏 nginx 文件服务器 访问地址
