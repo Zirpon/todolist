@@ -55,6 +55,10 @@ timeline | course |
 - [ ] 看看itchat 群消息 消息类型 比如 定位 连接分享
 - [ ] LinkedHashMap
 - [ ] 晾衣服
+- [ ] 阅读gunsoul3 battle 代码
+- [ ] 做kcp战场服务器
+- [ ] 消息中间件转发 java
+- [ ] java共享内存
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] 隐藏 nginx 文件服务器 访问地址
