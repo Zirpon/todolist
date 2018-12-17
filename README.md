@@ -51,12 +51,13 @@ timeline | course |
 - [ ] linkin 消息处理
 - [ ] 有时间可以看看王者荣耀客户端cs代码 了解一下cs 游戏的设计框架 以及帧同步 寻路这一块
 - [ ] 还有上周了解到的那个数数科技 运营后台 基于大数据平台设计 hbase 列式存储 hadoop spark 计算引擎 MapReduce zookeeper 分布式组件管理
-- [x] 换一下wechat背景吧
 - [ ] 做运动 YouTube 跳起来拍手那个
 - [ ] 看看itchat 群消息 消息类型 比如 定位 连接分享
 - [ ] LinkedHashMap
 - [ ] 消息中间件转发 java
 - [ ] java共享内存
+- [ ] 剪指甲
+- [ ] hexo 发布流程详细了解一下
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] 隐藏 nginx 文件服务器 访问地址
