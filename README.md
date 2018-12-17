@@ -37,9 +37,11 @@ timeline | course |
 ---
 
 - [ ] TCP/IP 第一卷
+- [ ] 微信运动爬取
 - [ ] 看华哥hbus的设计
 - [ ] java 线程同步 锁 共享内存 synchronized
 - [ ] 掉头发的原因
+- [ ] rust go 做战斗服
 - [x] iptables
 - [ ] 消息截断 解包失败 处理 格斗之皇 算法
 - [ ] 阿里云国内服务器 blog相应太慢
@@ -51,12 +53,9 @@ timeline | course |
 - [ ] 还有上周了解到的那个数数科技 运营后台 基于大数据平台设计 hbase 列式存储 hadoop spark 计算引擎 MapReduce zookeeper 分布式组件管理
 - [ ] 换一下wechat背景吧
 - [ ] 做运动 YouTube 跳起来拍手那个
-- [ ] 带上手机带 以防想跑跑步
+- [x] 带上手机带 以防想跑跑步
 - [ ] 看看itchat 群消息 消息类型 比如 定位 连接分享
 - [ ] LinkedHashMap
-- [ ] 晾衣服
-- [ ] 阅读gunsoul3 battle 代码
-- [ ] 做kcp战场服务器
 - [ ] 消息中间件转发 java
 - [ ] java共享内存
 
