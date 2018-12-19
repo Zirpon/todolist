@@ -39,6 +39,7 @@ timeline | course |
 - [ ] TCP/IP 第一卷
 - [ ] python 实时读取配置
 - [ ] python lua lua 获取python对象 实现 lua 逻辑热更
+- [ ] hexo 发布流程详细了解一下
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
@@ -57,8 +58,7 @@ timeline | course |
 - [ ] LinkedHashMap
 - [ ] 消息中间件转发 java
 - [ ] java共享内存
-- [ ] 剪指甲
-- [ ] hexo 发布流程详细了解一下
+- [x] 剪指甲
 - [ ] 掉头发的原因
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
