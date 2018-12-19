@@ -36,8 +36,6 @@ timeline | course |
 
 ---
 
-- [x] iptable 配置 9902 端口允许连接网络ip列表
-- [x] 付款 更新 shadowsock 端口 配置 时间 定时一个月 删除配置重置端口 支持开关控制定时删除 最好热更新
 - [ ] TCP/IP 第一卷
 - [ ] python 实时读取配置
 - [ ] python lua lua 获取python对象 实现 lua 逻辑热更
