@@ -44,7 +44,6 @@ timeline | course |
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
 - [ ] java 线程同步 锁 共享内存 synchronized
-- [x] iptables
 - [ ] 消息截断 解包失败 处理 格斗之皇 算法
 - [ ] 阿里云国内服务器 blog相应太慢
 - [ ] mysql 同步
@@ -58,7 +57,6 @@ timeline | course |
 - [ ] LinkedHashMap
 - [ ] 消息中间件转发 java
 - [ ] java共享内存
-- [x] 剪指甲
 - [ ] 掉头发的原因
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
