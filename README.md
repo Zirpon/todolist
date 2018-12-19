@@ -49,7 +49,6 @@ timeline | course |
 - [ ] 阿里云国内服务器 blog相应太慢
 - [ ] mysql 同步
 - [ ] mysql slave 主从同步
-- [x] vscode java 调试 工程
 - [ ] linkin 消息处理
 - [ ] 有时间可以看看王者荣耀客户端cs代码 了解一下cs 游戏的设计框架 以及帧同步 寻路这一块
 - [ ] 还有上周了解到的那个数数科技 运营后台 基于大数据平台设计 hbase 列式存储 hadoop spark 计算引擎 MapReduce zookeeper 分布式组件管理
