@@ -39,8 +39,6 @@ timeline | course |
 - [ ] TCP/IP 第一卷
 - [ ] python 实时读取配置
 - [ ] python lua 获取python对象 实现 lua 逻辑热更
-- [x] hexo 发布流程详细了解一下
-- [x] 隐藏 nginx 文件服务器 访问地址
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
