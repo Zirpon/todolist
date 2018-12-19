@@ -36,12 +36,15 @@ timeline | course |
 
 ---
 
+- [x] iptable 配置 9902 端口允许连接网络ip列表
+- [x] 付款 更新 shadowsock 端口 配置 时间 定时一个月 删除配置重置端口 支持开关控制定时删除 最好热更新
 - [ ] TCP/IP 第一卷
-- [ ] 微信运动爬取
+- [ ] python 实时读取配置
+- [ ] python lua lua 获取python对象 实现 lua 逻辑热更
+
+- [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
 - [ ] java 线程同步 锁 共享内存 synchronized
-- [ ] 掉头发的原因
-- [ ] rust go 做战斗服
 - [x] iptables
 - [ ] 消息截断 解包失败 处理 格斗之皇 算法
 - [ ] 阿里云国内服务器 blog相应太慢
@@ -58,6 +61,7 @@ timeline | course |
 - [ ] java共享内存
 - [ ] 剪指甲
 - [ ] hexo 发布流程详细了解一下
+- [ ] 掉头发的原因
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 - [ ] 隐藏 nginx 文件服务器 访问地址
