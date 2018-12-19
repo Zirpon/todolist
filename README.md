@@ -41,6 +41,7 @@ timeline | course |
 - [ ] python lua lua 获取python对象 实现 lua 逻辑热更
 - [ ] hexo 发布流程详细了解一下
 - [ ] 看看itchat 群消息 消息类型 比如 定位 连接分享
+- [ ] 隐藏 nginx 文件服务器 访问地址
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
@@ -59,7 +60,6 @@ timeline | course |
 - [ ] 掉头发的原因
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
-- [ ] 隐藏 nginx 文件服务器 访问地址
 
 - [x] linux socket select poll epoll
 - [ ] 高性能MySQL，深度探索c++
@@ -76,7 +76,7 @@ timeline | course |
 - [ ] 从数据库层面解决千万级大数据量查询慢的问题
 - [ ] 使用binlog对数据库进行时间点的恢复
 - [ ] 从简单的主从复制到主从分离的多种解决方案
-- [ ] mysql学习笔记总结
+- [x] mysql学习笔记总结
 
 `this week`
 
