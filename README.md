@@ -41,8 +41,6 @@ timeline | course |
 - [ ] hexo 博客 markdown 仓库 静态页面仓库
 - [ ] iptables 配置表 新加坡资料备份 git 仓库备份 gitee
 - [ ] python lua 获取python对象 实现 lua 逻辑热更
-- [x] www.ipip.net 获取ip对应的地图地址 稍后研究 他返回的解释比较复杂
-- [x] www.ipip.net 能够查到公网地址 与 公网路由 ip 网关
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
