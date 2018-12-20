@@ -42,6 +42,7 @@ timeline | course |
 - [ ] python lua 获取python对象 实现 lua 逻辑热更
 - [ ] 给电饭煲 申请 https
 - [ ] 给电饭煲找个logo
+- [ ] hexo 评论功能
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
