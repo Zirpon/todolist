@@ -40,6 +40,8 @@ timeline | course |
 - [ ] python 实时读取配置
 - [ ] iptables 配置表 新加坡资料备份 git 仓库备份 gitee
 - [ ] python lua 获取python对象 实现 lua 逻辑热更
+- [ ] 给电饭煲 申请 https
+- [ ] 给电饭煲找个logo
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
