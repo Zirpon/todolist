@@ -42,13 +42,13 @@ timeline | course |
 - [ ] python lua 获取python对象 实现 lua 逻辑热更
 - [ ] 给电饭煲 申请 https
 - [ ] 给电饭煲找个logo
-- [ ] hexo 评论功能
+- [x] hexo 评论功能
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
 - [ ] java 线程同步 锁 共享内存 synchronized
 - [ ] 消息截断 解包失败 处理 格斗之皇 算法
-- [ ] 阿里云国内服务器 blog相应太慢
+- [x] 阿里云国内服务器 blog相应太慢
 - [ ] mysql 同步
 - [ ] mysql slave 主从同步
 - [ ] linkin 消息处理
