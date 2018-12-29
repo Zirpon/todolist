@@ -41,7 +41,6 @@ timeline | course |
 - [ ] iptables 配置表 新加坡资料备份 git 仓库备份 gitee
 - [ ] python lua 获取python对象 实现 lua 逻辑热更
 - [ ] 解锁技能 升阶也有属性加成 部位类型为0 支持一下
-- [x] 玩家天命属性 默认值 天命配置表null 默认值
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
