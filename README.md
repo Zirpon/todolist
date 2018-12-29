@@ -39,7 +39,8 @@ timeline | course |
 - [ ] TCP/IP 第一卷
 - [ ] 新加坡资料备份 git 仓库备份 gitee
 - [ ] python lua 获取python对象 实现 lua 逻辑热更
-- [ ] 解锁技能
+- [x] 解锁技能
+- [ ] 天命log
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
