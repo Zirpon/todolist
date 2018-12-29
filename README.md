@@ -37,8 +37,6 @@ timeline | course |
 ---
 
 - [ ] TCP/IP 第一卷
-- [x] python 实时读取配置
-- [x] iptables 配置表
 - [ ] 新加坡资料备份 git 仓库备份 gitee
 - [ ] python lua 获取python对象 实现 lua 逻辑热更
 - [ ] 解锁技能
