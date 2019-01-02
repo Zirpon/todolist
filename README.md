@@ -37,7 +37,7 @@ timeline | course |
 ---
 
 - [ ] TCP/IP 第一卷
-- [ ] 新加坡资料备份 git 仓库备份 gitee
+- [x] 新加坡资料备份 git 仓库备份 gitee
    > singapore:/root/git-repository/cj-server.git
    > singapore:/root/zirpon_blog/zirpon_blog.git
    > singapore:/root/zirpon_blog/home.git [使用中]
