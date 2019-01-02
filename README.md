@@ -43,6 +43,8 @@ timeline | course |
    > singapore:/root/zirpon_blog/home.git [使用中]
 
 - [ ] python lua 获取python对象 实现 lua 逻辑热更
+- [ ] 天命配置表结构字段类型优化修改 天命系统表字段类型优化修改
+- [ ] 升阶解锁技能测试 激活部位 激活凹槽属性加成测试
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
