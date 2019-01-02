@@ -37,10 +37,6 @@ timeline | course |
 ---
 
 - [ ] TCP/IP 第一卷
-- [x] 新加坡资料备份 git 仓库备份 gitee
-   > singapore:/root/git-repository/cj-server.git
-   > singapore:/root/zirpon_blog/zirpon_blog.git
-   > singapore:/root/zirpon_blog/home.git [使用中]
 
 - [ ] python lua 获取python对象 实现 lua 逻辑热更
 - [ ] 天命配置表结构字段类型优化修改 天命系统表字段类型优化修改
