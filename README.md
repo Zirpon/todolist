@@ -158,6 +158,19 @@ timeline | course |
 - 学习
 - 看着自己一天天腐烂 行将就木 张一山92年 毕业 15年毕业 工作2年半 我感到非常痛心 这些年我究竟怎么过来的
 
+> 瘦身锻炼
+
+- five jumping jacks 1 burpee
+- 4 mountain climbers 2 sit-throughs
+- plyo step-ups
+- push-ups
+- 2 split squat jumps 1 burpee
+- toe taps
+- plank walks
+- sprinter sit-ups
+- squat thrusts
+- sumo goblet && squat pulse
+
 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 ---|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
