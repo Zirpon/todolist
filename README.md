@@ -158,7 +158,7 @@ timeline | course |
 - 学习
 - 看着自己一天天腐烂 行将就木 张一山92年 毕业 15年毕业 工作2年半 我感到非常痛心 这些年我究竟怎么过来的
 
-> 瘦身锻炼
+> 瘦身锻炼 workout plan
 
 - five jumping jacks 1 burpee
 - 4 mountain climbers 2 sit-throughs
