@@ -39,7 +39,6 @@ timeline | course |
 - [ ] TCP/IP 第一卷
 
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
-- [x] 升阶解锁技能测试 激活部位 激活凹槽属性加成测试
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
