@@ -39,6 +39,8 @@ timeline | course |
 - [ ] TCP/IP 第一卷
 
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
+- [ ] 足球网袋 缝起来
+- [ ] BSD、 SunOS 4.1.x、Solaris 2.x 及AIX 3.2.2
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
