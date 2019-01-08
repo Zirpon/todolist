@@ -36,12 +36,13 @@ timeline | course |
 
 ---
 
-- [ ] TCP/IP 第一卷
+- [ ] 2019-01-08 今天尽量看完TCP/IP 第一卷
 - [ ] 如何清洁键盘
 
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
 - [ ] 足球网袋 缝起来
 - [ ] BSD、 SunOS 4.1.x、Solaris 2.x 及AIX 3.2.2 系统的概念
+- [ ] 钱包的钱放到支付宝
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
