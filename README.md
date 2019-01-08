@@ -36,7 +36,7 @@ timeline | course |
 
 ---
 
-- [ ] 2019-01-08 今天尽量看完TCP/IP 第一卷
+- [ ] 2019-01-08 今天尽量看 TCP/IP 第一卷 第 16 章 BOOTP: 引导程序协议
 - [ ] 如何清洁键盘
 
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
