@@ -42,7 +42,6 @@ timeline | course |
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
 - [ ] 足球网袋 缝起来
 - [ ] BSD、 SunOS 4.1.x、Solaris 2.x 及AIX 3.2.2 系统的概念
-- [x] 钱包的钱放到支付宝
 - [ ] 闪信
 
 - [ ] 微信运动爬取 做曲线图
