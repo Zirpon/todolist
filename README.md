@@ -42,9 +42,6 @@ timeline | course |
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
 - [ ] 足球网袋 缝起来
 - [ ] BSD、 SunOS 4.1.x、Solaris 2.x 及AIX 3.2.2 系统的概念
-- [ ] recast navigation 运行 demo 学习 工具 寻路使用
-- [ ] recast navigation 学习 导入自定义模型 源码
-- [ ] recast navigation 学习 导航 源码
 
 - [ ] 微信运动爬取 做曲线图
 - [ ] 看华哥hbus的设计
@@ -59,6 +56,9 @@ timeline | course |
 - [ ] 消息中间件转发 java
 - [ ] java共享内存
 - [ ] 掉头发的原因
+- [ ] recast navigation 运行 demo 学习 工具 寻路使用
+- [ ] recast navigation 学习 导入自定义模型 源码
+- [ ] recast navigation 学习 导航 源码
 
 - [ ] tborg, chubby设计 paxos算法 zookeeper
 
