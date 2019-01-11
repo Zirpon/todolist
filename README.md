@@ -95,7 +95,6 @@ timeline | course |
 - [ ] rocketmq
 - [ ] hazard version
 - [ ] go
-- [ ] kbengine
 - [ ] jemalloc
 - [ ] protobuf
 
