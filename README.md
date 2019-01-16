@@ -40,7 +40,6 @@ timeline | course |
 - [ ] 如何清洁键盘
 - [ ] 无线鼠标坏了 只能扔掉吗 忘记带鼠标回公司了
 - [ ] mysql 复制 同步
-- [x] linux 安装 运行terchat
 
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
 - [ ] 足球网袋 缝起来
