@@ -151,7 +151,9 @@ timeline | course |
 - [ ] recast navigation 学习 导入自定义模型 源码
 - [ ] recast navigation 学习 导航 源码
 - [x] cmake 学习 总结 记 blog
-- [ ] MongoDB 使用 源码研究 优化
+- [ ] MongoDB 使用
+- [ ] MongoDB 源码研究
+- [ ] MongoDB 优化
 - [ ] skynet
 - [ ] go
 - [x] /proc/meminfo, iostat, 记 blog
