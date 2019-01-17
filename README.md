@@ -150,7 +150,7 @@ timeline | course |
 - [ ] recast navigation 运行 demo 学习 工具 寻路使用
 - [ ] recast navigation 学习 导入自定义模型 源码
 - [ ] recast navigation 学习 导航 源码
-- [x] cmake
+- [x] cmake 学习 总结 记 blog
 - [ ] MongoDB 使用 源码研究 优化
 - [ ] skynet
 - [ ] go
