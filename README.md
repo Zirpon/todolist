@@ -68,23 +68,25 @@ timeline | course |
 > usual
 
 - [ ] 无线鼠标坏了 只能扔掉吗 忘记带鼠标回公司了
+- [ ] 如何清洁键盘
+- [ ] 衣服捐献
 - [ ] mysql 复制 同步
 - [ ] 足球网袋 缝起来
 - [ ] BSD、 SunOS 4.1.x、Solaris 2.x 及AIX 3.2.2 系统的概念
 - [ ] 势要学日语 Butterfly 你的名字主题曲
 - [ ] mysql 同步
-- [ ] mysql slave 主从同步
 - [ ] linkin 消息处理
 - [ ] 消息中间件转发 java
 - [ ] java共享内存
 - [ ] 找游泳 办卡
 - [x] linux socket select poll epoll
 - [ ] 掉头发的原因
-- [ ] 清理微博了 要把转回来 MARK 的看看学习哦
-- [ ] 如何清洁键盘
 - [ ] 耳机🎧怎么处理 修还是捐还好扔还是送
+
+> when you got nothing to do
+
+- [ ] 清理微博了 要把转回来 MARK 的看看学习哦
 - [ ] 我觉得我真的得要认真看看怎么减肥的了 身体太笨重了 不灵活
-- [ ] 衣服捐献
 - [ ] 读英语 练习口语 单词 阅读英文报刊
 - [ ] 学好一点英语,流畅口语 写作,tofel
 
