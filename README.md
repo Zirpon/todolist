@@ -1,7 +1,5 @@
 # todolist
 
-> technic
-
 `today`
 
 timeline | course |
@@ -15,7 +13,7 @@ timeline | course |
 11:00 ~ 11:50 | dispatch |
 11:50 ~ 12:00 | delivery pickup |
 12:00 ~ 12:30 | delivery pickup |
-12:30 ~ 13:00 | TCP/IP 一二章 |
+12:30 ~ 13:00 | dispatch |
 13:00 ~ 13:50 | nap |
 13:50 ~ 14:00 | |
 14:00 ~ 14:45 | dispatch |
