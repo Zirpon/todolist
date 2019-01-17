@@ -109,6 +109,7 @@ timeline | course |
 - [ ] 整理一下三国吧兄弟项目
 - [ ] 整理一下乱斗江湖的项目
 - [ ] 格斗之皇项目部署
+- [ ] 微信运动爬取 做曲线图
 
 > keep fit workout plan
 
@@ -125,49 +126,60 @@ timeline | course |
 
 > technique explore list
 
+`分布式` `大数据`
+
 - [ ] tborg, chubby设计 paxos算法 zookeeper
+- [ ] 还有上周了解到的那个数数科技 运营后台 基于大数据平台设计 hbase 列式存储 hadoop spark 计算引擎 MapReduce zookeeper 分布式组件管理
+- [ ] 容器 docker kerbernate 部署一下
+
+`java`
+
 - [ ] java 线程同步 锁 共享内存 synchronized
+- [ ] java父子线程 关系
+- [ ] Java代码
+- [ ] runnable，thread Java 区别
+- [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
+- [ ] LinkedHashMap
+
+`机器学习`
+
+`work reference`
+
 - [ ] 消息截断 解包失败 处理 格斗之皇 算法
 - [ ] 有时间可以看看王者荣耀客户端cs代码 了解一下cs 游戏的设计框架 以及帧同步 寻路 这一块
 - [ ] recast navigation 运行 demo 学习 工具 寻路使用
 - [ ] recast navigation 学习 导入自定义模型 源码
 - [ ] recast navigation 学习 导航 源码
-- [ ] 还有上周了解到的那个数数科技 运营后台 基于大数据平台设计 hbase 列式存储 hadoop spark 计算引擎 MapReduce zookeeper 分布式组件管理
-- [ ] 微信运动爬取 做曲线图
-- [ ] 容器 docker kerbernate 部署一下
-- [ ] lua内存泄漏
-- [ ] LinkedHashMap
-- [ ] java父子线程 关系
-- [ ] Java代码
-- [ ] runnable，thread Java 区别
-- [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
+- [x] cmake
+- [ ] MongoDB 使用 源码研究 优化
+- [ ] skynet
+- [ ] go
+- [x] /proc/meminfo, iostat,
+- [ ] jemalloc 源码 如何申请内存与分配内存
+- [ ] kbengine
+- [ ] protobuf 源码 研究
+- [ ] redis 源码
+- [ ] hazard version
+- [ ] lua 手册 lua内存泄漏
+- [ ] rocketmq 使用 源码研究 深入探索
+- [ ] binary-sort tree c 实现 优化handle name retire 遍历
+- [x] lua red-black tree 数据接口实现
+- [x] gdb
+- [x] Python
+- [ ] xhprof php 性能测试插件
+- [ ] php runtime 优化
+- [ ] 并行请求swool curl_muti
+
+`database`
+
 - [ ] opcode 缓存
 - [ ] 数据库规范化设计高性能可扩展的数据库架构
 - [ ] 从数据库层面解决千万级大数据量查询慢的问题
 - [ ] 使用binlog对数据库进行时间点的恢复
 - [ ] 从简单的主从复制到主从分离的多种解决方案
-- [x] cmake
-- [ ] python
-- [ ] mongodb
-- [ ] skynet
-- [ ] rocketmq
-- [ ] hazard version
-- [ ] go
-- [ ] jemalloc
-- [ ] protobuf
-- [x] /proc/meminfo, iostat,
-- [ ] jemalloc 源码 如何申请内存与分配内存
-- [ ] go learning
-- [ ] kbengine
-- [ ] protobuf 源码
-- [ ] redis 源码
-- [ ] MongoDB 源码
-- [ ] hazard version
-- [ ] lua 手册
-- [ ] skynet
-- [ ] rocketmq 接口源码
-- [ ] binary-sort tree c 实现 优化handle name retire 遍历
-- [ ] lua red-black tree 数据接口实现
+
+`job hunting require`
+
 - [ ] 熟悉Unix/Linux操作系统原理，常用工具；
 - [ ] 有过独立完整设计复杂系统功能的经验；
 - [ ] 有过高并发，高性能分布式开发经验；
@@ -175,15 +187,6 @@ timeline | course |
 - [ ] TCP/HTTP协议、socket编程、reactor网络框架
 - [ ] 分布式系统设计和实现
 - [ ] Mysql 调优
-- [ ] gdb
-- [x] Python
-- [ ] 功能内存 share mem
-- [ ] skynet
-- [ ] 机器学习
-- [ ] 数据结构 算法
-- [ ] xhprof php 性能测试插件
-- [ ] php runtime 优化
-- [ ] 并行请求swool curl_muti
 
 > life skill explore list
 
