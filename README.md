@@ -137,8 +137,8 @@ timeline | course |
 `java`
 
 - [ ] java 线程同步 锁 共享内存 synchronized
-- [ ] java父子线程 关系
-- [ ] Java代码
+- [ ] java 父子线程 关系
+- [ ] Java 代码
 - [ ] runnable，thread Java 区别
 - [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
 - [ ] LinkedHashMap
