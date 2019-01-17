@@ -102,7 +102,8 @@ timeline | course |
 - [ ] terchat 祝福语 天气 段子
 - [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
-- [ ] blog
+- [ ] blog 订阅功能
+- [ ] blog 添加记录
 - [ ] 看华哥hbus的设计
 
 - [ ] 直接搞u3d 或者 unreal
