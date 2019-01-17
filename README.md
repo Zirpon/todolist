@@ -41,6 +41,9 @@ timeline | course |
    现在 14 章 DNS
 - [ ] 无线鼠标坏了 只能扔掉吗 忘记带鼠标回公司了
 - [ ] mysql 复制 同步
+- [x] 买推剪
+- [ ] terchat 祝福语 天气 段子
+- [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
 
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
 - [ ] 足球网袋 缝起来
