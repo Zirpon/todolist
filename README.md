@@ -154,7 +154,7 @@ timeline | course |
 - [ ] MongoDB 使用 源码研究 优化
 - [ ] skynet
 - [ ] go
-- [x] /proc/meminfo, iostat,
+- [x] /proc/meminfo, iostat, 记 blog
 - [ ] jemalloc 源码 如何申请内存与分配内存
 - [ ] kbengine
 - [ ] protobuf 源码 研究
@@ -164,8 +164,6 @@ timeline | course |
 - [ ] rocketmq 使用 源码研究 深入探索
 - [ ] binary-sort tree c 实现 优化handle name retire 遍历
 - [x] lua red-black tree 数据接口实现
-- [x] gdb
-- [x] Python
 - [ ] xhprof php 性能测试插件
 - [ ] php runtime 优化
 - [ ] 并行请求swool curl_muti
