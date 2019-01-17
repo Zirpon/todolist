@@ -59,6 +59,7 @@ timeline | course |
 - [ ] 绿皮数据结构 finish
 - [ ] 高性能MySQL
 - [ ] java 入门与精通
+- [ ] lua 手册
 - [x] C++ 高质量编程
 
 - [ ] 深度探索c++
@@ -164,7 +165,7 @@ timeline | course |
 - [ ] protobuf 源码 研究
 - [ ] redis 源码
 - [ ] hazard version
-- [ ] lua 手册 lua内存泄漏
+- [ ] lua 内存泄漏
 - [ ] rocketmq 使用 源码研究 深入探索
 - [ ] binary-sort tree c 实现 优化handle name retire 遍历
 - [ ] xhprof php 性能测试插件
