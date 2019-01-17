@@ -163,7 +163,6 @@ timeline | course |
 - [ ] lua 手册 lua内存泄漏
 - [ ] rocketmq 使用 源码研究 深入探索
 - [ ] binary-sort tree c 实现 优化handle name retire 遍历
-- [x] lua red-black tree 数据接口实现
 - [ ] xhprof php 性能测试插件
 - [ ] php runtime 优化
 - [ ] 并行请求swool curl_muti
