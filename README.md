@@ -43,7 +43,7 @@ timeline | course |
 - [ ] mysql 复制 同步
 - [ ] terchat 祝福语 天气 段子
 - [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
-- [ ] typescript 学习
+- [x] typescript 学习了解
 
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
 - [ ] 足球网袋 缝起来
