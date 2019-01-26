@@ -69,14 +69,14 @@ timeline | course |
 
 > usual
 
-- [ ] dell 无线鼠标不知道去哪里了 无线鼠标坏了 只能扔掉吗
+- [x] dell 无线鼠标不知道去哪里了 无线鼠标坏了 只能扔掉吗
 - [ ] 秤 电池
 - [ ] 如何清洁键盘
 - [ ] 衣服捐献
 - [ ] mysql 复制 同步
 - [ ] 足球网袋 缝起来
 - [ ] BSD、 SunOS 4.1.x、Solaris 2.x 及AIX 3.2.2 系统的概念
-- [ ] 势要学日语 Butterfly 你的名字主题曲
+- [ ] 五十音图 势要学日语 Butterfly 你的名字主题曲
 - [ ] mysql 同步
 - [ ] linkin 消息处理
 - [ ] 消息中间件转发 java
