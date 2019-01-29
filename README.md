@@ -95,7 +95,7 @@ timeline | course |
 > work
 
 - [x] 拆雷模式
-- [ ] 生化基地
+- [x] 生化基地
 
 > private jobs
 
