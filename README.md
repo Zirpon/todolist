@@ -76,7 +76,6 @@ timeline | course |
 - [ ] mysql 复制 同步
 - [ ] 足球网袋 缝起来
 - [ ] BSD、 SunOS 4.1.x、Solaris 2.x 及AIX 3.2.2 系统的概念
-- [ ] 五十音图 势要学日语 Butterfly 你的名字主题曲
 - [ ] mysql 同步
 - [ ] linkin 消息处理
 - [ ] 消息中间件转发 java
@@ -88,6 +87,7 @@ timeline | course |
 
 > when you got nothing to do
 
+- [ ] 五十音图 势要学日语 Butterfly 你的名字主题曲
 - [ ] 清理微博了 要把转回来 MARK 的看看学习哦
 - [ ] 我觉得我真的得要认真看看怎么减肥的了 身体太笨重了 不灵活
 - [ ] 读英语 练习口语 单词 阅读英文报刊
