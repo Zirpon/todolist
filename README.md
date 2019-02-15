@@ -95,7 +95,6 @@ timeline | course |
 
 > work
 
-- [x] 阅读remoteServer 逻辑
 - [ ] 调试 启动服务器
 
 > private jobs
