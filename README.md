@@ -96,9 +96,9 @@ timeline | course |
 > work
 
 - [ ] 宫斗WorldServer Redis 用于做什么事情
-- [ ] 宫斗AccountServer 的用途
-- [ ] LogServer 的功能 是不是 与 WorldServer 一对多的关系
-- [ ] ChatServer 的功能 与 NewGate 是不是 一对多的关系 它对于 WorldServer 是什么用途 对于NewGate 是什么用途
+- [x] 宫斗AccountServer 的用途
+- [x] LogServer 的功能 是不是 与 WorldServer 一对多的关系
+- [x] ChatServer 的功能 与 NewGate 是不是 一对多的关系 它对于 WorldServer 是什么用途 对于NewGate 是什么用途
 - [ ] RemoteAccoutServer 的 Redis 的用途
 
 > private jobs
