@@ -95,7 +95,7 @@ timeline | course |
 
 > work
 
-- [ ] 宫斗WorldServer Redis 用于做什么事情
+- [ ] 宫斗WorldServer Redis 用于做什么事情 toprank ? 哪里select 了 db ? 默认select 了 0
 - [ ] RemoteAccoutServer 的 Redis 的用途
 
 > private jobs
