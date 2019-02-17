@@ -95,7 +95,6 @@ timeline | course |
 
 > work
 
-- [x] 调试 启动服务器
 - [ ] 宫斗WorldServer Redis 用于做什么事情
 - [ ] 宫斗AccountServer 的用途
 - [ ] LogServer 的功能 是不是 与 WorldServer 一对多的关系
