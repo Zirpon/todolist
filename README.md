@@ -96,7 +96,6 @@ timeline | course |
 > work
 
 - [ ] RemoteAccoutServer 的 Redis 的用途
-- [ ] 写程序设计结构 UML
 - [ ] 使用空的 by_account by_actor 开新服
 - [ ] 导出无数据 by_account by_actor 导入
 - [ ] 开新服
