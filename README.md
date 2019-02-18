@@ -95,10 +95,10 @@ timeline | course |
 
 > work
 
-- [ ] RemoteAccoutServer 的 Redis 的用途
-- [ ] 使用空的 by_account by_actor 开新服
-- [ ] 导出无数据 by_account by_actor 导入
-- [ ] 开新服
+- [x] RemoteAccoutServer 的 Redis 的用途
+- [x] 使用空的 by_account by_actor 开新服
+- [x] 导出无数据 by_account by_actor 导入
+- [x] 开新服
 - [ ] shared_ptr 用法
 
 > private jobs
