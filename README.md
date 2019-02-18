@@ -99,7 +99,6 @@ timeline | course |
 - [ ] RemoteAccoutServer 的 Redis 的用途
 - [ ] 给worldServer 添加 redis 选库
 - [ ] 写程序设计结构 UML
-- [x] 创角flowchat
 - [ ] 使用空的 by_account by_actor 开新服
 - [ ] 导出无数据 by_account by_actor 导入
 - [ ] 开新服
