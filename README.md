@@ -95,9 +95,7 @@ timeline | course |
 
 > work
 
-- [x] 宫斗WorldServer Redis 用于做什么事情 toprank ? 哪里select 了 db ? 默认select 了 0
 - [ ] RemoteAccoutServer 的 Redis 的用途
-- [x] 给worldServer 添加 redis 选库
 - [ ] 写程序设计结构 UML
 - [ ] 使用空的 by_account by_actor 开新服
 - [ ] 导出无数据 by_account by_actor 导入
