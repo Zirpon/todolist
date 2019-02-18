@@ -97,9 +97,12 @@ timeline | course |
 
 - [ ] 宫斗WorldServer Redis 用于做什么事情 toprank ? 哪里select 了 db ? 默认select 了 0
 - [ ] RemoteAccoutServer 的 Redis 的用途
+- [ ] 给worldServer 添加 redis 选库
+- [ ] 写程序设计结构 UML
 
 > private jobs
 
+- [ ] nginx rtmp module 视频直播方案
 - [ ] terchat 祝福语 天气 段子
 - [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
