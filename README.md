@@ -69,11 +69,7 @@ timeline | course |
 
 > usual
 
-- [x] 秤 电池 京东
-- [x] 键盘清洁
 - [ ] 杯盖
-- [x] 水坐垫
-- [x] 衣服捐献
 - [ ] mysql 复制 同步
 - [ ] 足球网袋 缝起来
 - [ ] BSD、 SunOS 4.1.x、Solaris 2.x 及AIX 3.2.2 系统的概念
