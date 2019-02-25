@@ -70,7 +70,10 @@ timeline | course |
 > usual
 
 - [ ] 杯盖
-- [ ] 无线鼠标
+- [ ] 收快递
+- [ ] 洗杯子
+- [ ] 洗衣服 收衣服
+- [x] 买无线鼠标
 - [ ] mysql 复制 同步
 - [ ] 足球网袋 缝起来
 - [ ] BSD、 SunOS 4.1.x、Solaris 2.x 及AIX 3.2.2 系统的概念
