@@ -100,9 +100,6 @@ timeline | course |
 
 > private jobs
 
-- [x] 配置好 Mac 的 CentOS 7.0 虚拟机 go vim
-- [x] 安装 golang vim 自动补全 插件
-- [x] 给虚拟机 编译好 golang 跑一跑
 - [ ] 写编译 golang blog
 - [ ] nginx rtmp module 视频直播方案
 - [ ] terchat 祝福语 天气 段子
