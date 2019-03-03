@@ -100,6 +100,10 @@ timeline | course |
 
 > private jobs
 
+- [ ] 配置好 Mac 的 CentOS 7.0 虚拟机
+- [ ] 安装 golang vim 自动补全 插件
+- [ ] 给虚拟机 编译好 golang 跑一跑
+- [ ] 写编译 golang blog
 - [ ] nginx rtmp module 视频直播方案
 - [ ] terchat 祝福语 天气 段子
 - [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
