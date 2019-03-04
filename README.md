@@ -70,12 +70,9 @@ timeline | course |
 > usual
 
 - [ ] 杯盖
-- [ ] 网上买水
-- [ ] 洗杯子
 - [ ] 买毛巾
 - [ ] 客厅的袜子
 - [ ] 阳台的内裤
-- [ ] 洗鞋子 网上买洗鞋子工具
 - [ ] 以前的无线鼠标 怎么处理 右键有时候失灵 滑轮基本不好用
 - [ ] 耳机🎧怎么处理 修还是捐还好扔还是送
 - [ ] mysql 复制 同步
@@ -103,6 +100,7 @@ timeline | course |
 
 > private jobs
 
+- [ ] 写编译 golang blog
 - [ ] nginx rtmp module 视频直播方案
 - [ ] hexo bean  主题 文章 宽度 太窄 看看哪里可以加宽
 - [ ] hexo bean 引用代码 有拖动条 看看如何取消拖动条
