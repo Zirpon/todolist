@@ -102,7 +102,6 @@ timeline | course |
 
 > private jobs
 
-- [x] 写编译 golang blog
 - [ ] beantech 修改文章宽度
 - [ ] nginx rtmp module 视频直播方案
 - [ ] hexo bean  主题 文章 宽度 太窄 看看哪里可以加宽
