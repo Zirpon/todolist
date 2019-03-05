@@ -97,6 +97,8 @@ timeline | course |
 > work
 
 - [ ] shared_ptr 用法
+- [ ] zlog 封装 开个 workqueen 开个线程 写日志
+- [ ] zlog init 多次问题
 
 > private jobs
 
