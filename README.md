@@ -99,6 +99,7 @@ timeline | course |
 - [ ] shared_ptr 用法
 - [x] zlog 封装 开个 workqueen 开个线程 写日志
 - [x] zlog init 多次问题
+- [ ] 对比 linux zlog  与 winzlog 的区别 主要是buffer min 那部分
 
 > private jobs
 
