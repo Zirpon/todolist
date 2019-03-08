@@ -101,7 +101,7 @@ timeline | course |
 - [x] zlog init 多次问题
 - [ ] 对比 linux zlog  与 winzlog 的区别 主要是buffer min 那部分
 - [ ] double 小数点后数位
-- [ ] zlogmanager 引入 player
+- [x] zlogmanager 引入 player
 
 > private jobs
 
