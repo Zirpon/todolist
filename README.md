@@ -97,7 +97,7 @@ timeline | course |
 > work
 
 - [ ] shared_ptr 用法
-- [ ] 对比 linux zlog  与 winzlog 的区别 主要是buffer min 那部分
+- [ ] 对比 linux zlog  与 winzlog 的区别 主要是 buffer min 那部分
 
 > private jobs
 
