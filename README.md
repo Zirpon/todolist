@@ -97,6 +97,7 @@ timeline | course |
 > work
 
 - [ ] shared_ptr 用法
+- [ ] 日志接口 打log
 
 > private jobs
 
