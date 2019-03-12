@@ -101,11 +101,11 @@ timeline | course |
 
 > private jobs
 
-- [ ] beantech 修改文章宽度
+- [x] beantech 修改文章宽度
 - [ ] nginx rtmp module 视频直播方案
-- [ ] hexo bean  主题 文章 宽度 太窄 看看哪里可以加宽
-- [ ] hexo bean 引用代码 有拖动条 看看如何取消拖动条
-- [ ] hexo bean 文章 段落 标题 错落不够分明 看看 这个怎么改 可能要参考其他主题的设置
+- [x] hexo bean  主题 文章 宽度 太窄 看看哪里可以加宽
+- [x] hexo bean 引用代码 有拖动条 看看如何取消拖动条
+- [x] hexo bean 文章 段落 标题 错落不够分明 看看 这个怎么改 可能要参考其他主题的设置
 - [ ] terchat 祝福语 天气 段子
 - [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
