@@ -94,8 +94,13 @@ timeline | course |
 
 > work
 
-- [ ] shared_ptr 用法
+- [x] shared_ptr 用法
 - [ ] 日志接口 打log
+- [ ] 大臣
+- [ ] 妃子
+- [ ] 联盟
+- [ ] 皇子
+- [ ] 任务
 
 > private jobs
 
