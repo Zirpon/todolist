@@ -94,7 +94,6 @@ timeline | course |
 
 > work
 
-- [x] shared_ptr 用法
 - [ ] 日志接口 打log
 - [ ] 大臣
 - [ ] 妃子
