@@ -83,7 +83,6 @@ timeline | course |
 - [ ] java共享内存
 - [ ] 找游泳 办卡
 - [x] linux socket select poll epoll
-- [x] 掉头发的原因 [Link](https://www.zhihu.com/question/19761976)
 
 > when you got nothing to do
 
