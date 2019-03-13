@@ -94,12 +94,10 @@ timeline | course |
 
 > work
 
-- [x] 日志接口 打log
 - [ ] 大臣
 - [ ] 妃子
 - [ ] 联盟
 - [ ] 皇子
-- [x] 任务
 
 > private jobs
 
