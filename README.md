@@ -101,7 +101,6 @@ timeline | course |
 
 > private jobs
 
-- [x] 清理阿里云磁盘
 - [ ] nginx rtmp module 视频直播方案
 - [ ] terchat 祝福语 天气 段子
 - [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
