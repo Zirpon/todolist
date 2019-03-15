@@ -96,8 +96,9 @@ timeline | course |
 
 - [ ] 大臣
 - [ ] 妃子
-- [ ] 联盟
-- [ ] 皇子
+- [x] 联盟
+- [x] 皇子
+- [ ] Player login log
 
 > private jobs
 
