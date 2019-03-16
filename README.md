@@ -94,8 +94,6 @@ timeline | course |
 
 > work
 
-- [x] 妃子
-
 > private jobs
 
 - [ ] nginx rtmp module 视频直播方案
