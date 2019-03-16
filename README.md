@@ -94,7 +94,6 @@ timeline | course |
 
 > work
 
-- [x] 大臣
 - [ ] 妃子
 - [ ] Player login log
 
