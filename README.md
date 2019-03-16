@@ -95,7 +95,6 @@ timeline | course |
 > work
 
 - [ ] 妃子
-- [x] Player login log
 
 > private jobs
 
