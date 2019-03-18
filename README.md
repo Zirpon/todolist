@@ -95,7 +95,8 @@ timeline | course |
 
 > work
 
-- [ ] undefined
+- [ ] 合并代码
+- [ ] 注释zlog 打印格式
 
 > private jobs
 
