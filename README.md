@@ -95,6 +95,9 @@ timeline | course |
 > work
 
 - [ ] dump 日志 皮卡丘
+- [ ] 清理软件账号 chrome qq 网盘
+- [ ] github 仓库
+- [ ] gitee 仓库
 
 > private jobs
 
