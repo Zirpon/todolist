@@ -95,7 +95,7 @@ timeline | course |
 > work
 
 - [ ] dump 日志 皮卡丘
-- [ ] 注释补一下
+- [x] 注释补一下
 
 > private jobs
 
