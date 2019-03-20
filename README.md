@@ -98,6 +98,14 @@ timeline | course |
 - [ ] 清理软件账号 chrome qq 网盘
 - [ ] github 仓库
 - [ ] gitee 仓库
+- [ ] 删除 ssh 配置 密钥
+- [ ] hero 仓库
+- [ ] todolist 仓库
+- [ ] 无线鼠标 蓝牙
+- [ ] 坐垫
+- [ ] 风扇
+- [ ] 安卓数据线
+- [ ] 两个充电头
 
 > private jobs
 
