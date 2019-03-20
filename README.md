@@ -94,7 +94,11 @@ timeline | course |
 
 > work
 
-- [ ] undefined
+- [ ] dump 日志 皮卡丘
+- [x] 妃子属性提升日志  
+- [x] 大臣珍宝升级
+- [x] 妃子天赋等级提升日志
+- [ ] 注释补一下
 
 > private jobs
 
