@@ -106,6 +106,7 @@ timeline | course |
 - [ ] 风扇
 - [ ] 安卓数据线
 - [ ] 两个充电头
+- [ ] 检查 cj client 有没有拷到
 
 > private jobs
 
