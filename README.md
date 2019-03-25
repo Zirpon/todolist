@@ -96,7 +96,7 @@ timeline | course |
 > work
 
 - [ ] dump 日志 皮卡丘
-- [ ] 清理软件账号 chrome qq 网盘
+- [x] 清理软件账号 chrome qq 网盘
 - [x] github 仓库
 - [x] gitee 仓库
 - [x] 删除 ssh 配置 密钥
