@@ -96,19 +96,6 @@ timeline | course |
 > work
 
 - [ ] dump 日志 皮卡丘
-- [x] 清理软件账号 chrome qq 网盘
-- [x] github 仓库
-- [x] gitee 仓库
-- [x] 删除 ssh 配置 密钥
-- [x] hero 仓库
-- [x] todolist 仓库
-- [x] 无线鼠标 蓝牙
-- [x] 坐垫
-- [x] 风扇
-- [x] 安卓数据线
-- [x] 两个充电头
-- [x] 检查 cj client 有没有拷到
-- [x] 水杯
 
 > private jobs
 
