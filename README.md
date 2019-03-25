@@ -102,13 +102,13 @@ timeline | course |
 - [x] 删除 ssh 配置 密钥
 - [x] hero 仓库
 - [x] todolist 仓库
-- [ ] 无线鼠标 蓝牙
-- [ ] 坐垫
-- [ ] 风扇
+- [x] 无线鼠标 蓝牙
+- [x] 坐垫
+- [x] 风扇
 - [x] 安卓数据线
-- [ ] 两个充电头
+- [x] 两个充电头
 - [x] 检查 cj client 有没有拷到
-- [ ] 水杯
+- [x] 水杯
 
 > private jobs
 
