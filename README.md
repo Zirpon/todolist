@@ -104,6 +104,7 @@ timeline | course |
 
 > private jobs
 
+- [ ] blog 封面样式新做一个 css 与 文章样式 独立开来 可能不太行 因为不知道怎么生成 先尝试吧
 - [ ] nginx rtmp module 视频直播方案
 - [ ] terchat 祝福语 天气 段子
 - [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
@@ -112,7 +113,6 @@ timeline | course |
 - [ ] blog 添加记录
 - [ ] 看华哥hbus的设计
 
-- [ ] 直接搞u3d 或者 unreal
 - [ ] 整理一下挂机项目
 - [ ] 微信运动爬取 做曲线图
 
