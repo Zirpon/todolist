@@ -104,6 +104,7 @@ timeline | course |
 
 > private jobs
 
+- [x] 修改了以往文章格式: 章节标题 英文跳转;每一章节 用 `-` 符号分割段落 
 - [ ] nginx rtmp module 视频直播方案
 - [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
