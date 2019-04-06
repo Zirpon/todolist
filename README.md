@@ -104,9 +104,6 @@ timeline | course |
 
 > private jobs
 
-- [x] 解决了 hexo beantech 文章侧边栏 跳转 问题 看 hupro github pull request 
-- [x] hexo beantech 文章侧边栏 中文章节标题 不跳转
-- [x] blog 封面样式新做一个 css 与 文章样式 独立开来 可能不太行 因为不知道怎么生成 先尝试吧
 - [ ] nginx rtmp module 视频直播方案
 - [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
