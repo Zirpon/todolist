@@ -59,8 +59,8 @@ timeline | course |
 - [ ] 绿皮数据结构 finish
 - [ ] 高性能MySQL
 - [ ] java 入门与精通
-- [ ] lua 手册
-- [x] C++ 高质量编程
+- [x] lua 手册
+- [ ] C++ 高质量编程
 
 - [ ] 深度探索c++
 - [ ] 操作系统精髓与设计原理
@@ -104,9 +104,8 @@ timeline | course |
 
 > private jobs
 
-- [ ] blog 封面样式新做一个 css 与 文章样式 独立开来 可能不太行 因为不知道怎么生成 先尝试吧
+- [x] blog 封面样式新做一个 css 与 文章样式 独立开来 可能不太行 因为不知道怎么生成 先尝试吧
 - [ ] nginx rtmp module 视频直播方案
-- [ ] terchat 祝福语 天气 段子
 - [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
 - [ ] blog 订阅功能
