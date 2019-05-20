@@ -82,7 +82,6 @@ timeline | course |
 - [ ] 绿皮数据结构 finish
 - [ ] 高性能MySQL
 - [ ] java 入门与精通
-- [x] lua 手册
 - [ ] C++ 高质量编程
 - [ ] C++ Primer Plus 6
 
@@ -94,7 +93,6 @@ timeline | course |
 
 > usual
 
-- [x] 杯盖
 - [ ] 以前的无线鼠标 怎么处理 右键有时候失灵 滑轮基本不好用
 - [ ] 明天早上去看看 耳机🎧怎么处理 修还是捐还好扔还是送
 - [ ] 租房 东海花园 锦绣花园 day and night
