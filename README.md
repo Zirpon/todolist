@@ -56,55 +56,9 @@ timeline | course |
 
 > book 2019-05-24 深度探索 C++ 对象模型
 
-- [ ] 第1章 关于对象（Object Lessons）	1
-         加上封装后的布局成本（Layout Costs for Adding Encapsulation）	5
-      1.1　C++对象模式（The C++ Object Model）	6
-         简单对象模型（A Simple Object Model）	7
-         表格驱动对象模型（A Table-driven Object Model）	8
-         C++对象模型（The C++ Object Model）	9
-         对象模型如何影响程序（How the Object Model Effects Programs）	13
-      1.2 关键词所带来的差异（A Keyword Distinction）	15
-         关键词的困扰	16
-         策略性正确的struct（The Politically Correct Struct）	19
-      1.3 对象的差异（An Object Distinction）	22
-         指针的类型（The Type of a Pointer）	28
-         加上多态之后（Adding Polymorphism）	29
-- [ ] 第2章 构造函数语意学（The Semantics of Constructors）	37
-      2.1 Default Constructor的构造操作	39
-         “带有Default Constructor”的Member Class Object	41
-         “带有Default Constructor”的Base Class	44
-         “带有一个Virtual Function”的Class	44
-         “带有一个Virtual Base Class”的Class	46
-         总结	47
-      2.2 Copy Constructor的构造操作	48
-         Default Memberwise Initialization	49
-         Bitwise Copy Semantics（位逐次拷贝）	51
-         不要Bitwise Copy Semantics！	53
-         重新设定Virtual Table的指针	54
-         处理Virtual Base Class Subobject	57
-      2.3 程序转化语意学（Program Transformation Semantics）	60
-         显式的初始化操作（Explicit Initialization）	61
-         参数的初始化（Argument Initialization）	62
-         返回值的初始化（Return Value Initialization）	63
-         在使用者层面做优化（Optimization at the User Level）	65
-         在编译器层面做优化（Optimization at the Compiler Level）	66
-         Copy Constructor：要还是不要？	72
-         摘要	74
-      2.4 成员们的初始化队伍（Member Initialization List）	74
-- [ ] 第3章 Data语意学（The Semantics of Data）	83
-      3.1 Data Member的绑定（The Binding of a Data Member）	88
-      3.2 Data Member的布局（Data Member Layout）	92
-      3.3 Data Member的存取	94
-         Static Data Members	95
-         Nonstatic Data Members	97
-      3.4 “继承”与Data Member	99
-         只要继承不要多态（Inheritance without Polymorphism）	100
-         加上多态（Adding Polymorphism）	107
-         多重继承（Multiple Inheritance）	112
-         虚拟继承（Virtual Inheritance）	116
-      3.5 对象成员的效率（Object Member Efficiency）	124
-      3.6 指向Data Members的指针（Pointer to Data Members）	129
-         “指向Members的指针”的效率问题	134
+- [x] 第1章 关于对象（Object Lessons）	1
+- [x] 第2章 构造函数语意学（The Semantics of Constructors）	37
+- [x] 第3章 Data语意学（The Semantics of Data）	83
 - [ ] 第4章 Function语意学（The Semantics of Function）	139
       4.1 Member的各种调用方式	140
          Nonstatic Member Functions（非静态成员函数）	141
