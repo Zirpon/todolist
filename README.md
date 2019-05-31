@@ -54,16 +54,6 @@ timeline | course |
 - [ ] 第 29 章 网络文件系统
 - [ ] 第 30 章 其他的 TCP/IP 应用程序
 
-> book 2019-05-24 深度探索 C++ 对象模型
-
-- [x] 第1章 关于对象（Object Lessons）	1
-- [x] 第2章 构造函数语意学（The Semantics of Constructors）	37
-- [x] 第3章 Data语意学（The Semantics of Data）	83
-- [x] 第4章 Function语意学（The Semantics of Function）	139
-- [x] 第5章 构造、析构、拷贝语意学（Semantics of Construction,Destruction, and Copy）	191
-- [x] 第6章 执行期语意学（Runtime Semantics）	237
-- [x] 第7章 站在对象模型的尖端（On the Cusp of the Object Model）	279
-
 > book list
 
 - [ ] 阿哈算法 finish
