@@ -59,65 +59,10 @@ timeline | course |
 - [x] 第1章 关于对象（Object Lessons）	1
 - [x] 第2章 构造函数语意学（The Semantics of Constructors）	37
 - [x] 第3章 Data语意学（The Semantics of Data）	83
-- [ ] 第4章 Function语意学（The Semantics of Function）	139
-      4.1 Member的各种调用方式	140
-         Nonstatic Member Functions（非静态成员函数）	141
-         Virtual Member Functions（虚拟成员函数）	147
-         Static Member Functions（静态成员函数）	148
-      4.2 Virtual Member Functions（虚拟成员函数）	152
-         多重继承下的Virtual Functions	159
-         虚拟继承下的Virtual Functions	168
-      4.3 函数的效能	170
-      4.4 指向Member Function的指针（Pointer-to-Member Functions）	174
-         支持“指向Virtual Member Functions”的指针	176
-         在多重继承之下，指向Member Functions的指针	178
-         “指向Member Functions之指针”的效率	180
-      4.5 Inline Functions	182
-         形式参数（Formal Arguments）	185
-         局部变量（Local Variables）	186
-- [ ] 第5章 构造、析构、拷贝语意学（Semantics of Construction,
-         Destruction, and Copy）	191
-         纯虚函数的存在（Presence of a Pure Virtual Function）	193
-         虚拟规格的存在（Presence of a Virtual Specification）	194
-         虚拟规格中const的存在	195
-         重新考虑class的声明	195
-      5.1 “无继承”情况下的对象构造	196
-         抽象数据类型（Abstract Data Type）	198
-         为继承做准备	202
-      5.2 继承体系下的对象构造	206
-         虚拟继承（Virtual Inheritance）	210
-         vptr初始化语意学（The Semantics of the vptr Initialization）	213
-      5.3 对象复制语意学（Object Copy Semantics）	219
-      5.4 对象的效能（Object Efficiency）	225
-      5.5 析构语意学（Semantics of Destruction）	231
-- [ ] 第6章 执行期语意学（Runtime Semantics）	237
-      6.1 对象的构造和析构（Object Construction and Destruction）	240
-         全局对象（Global Objects）	242
-         局部静态对象（Local Static Objects）	247
-         对象数组（Array of Objects）	250
-         Default Constructors和数组	252
-      6.2 new和delete运算符	254
-         针对数组的new语意	257
-         Placement Operator new的语意	263
-      6.3 临时性对象（Temporary Objects）	267
-         临时性对象的迷思（神话、传说）	275
-- [ ] 第7章 站在对象模型的尖端（On the Cusp of the Object Model）	279
-      7.1 Template	280
-         Template的“实例化”行为（Template Instantiation）	281
-         Template的错误报告（Error Reporting within a Template）	285
-         Template中的名称决议法（Name Resolution within a Template）	289
-         Member Function的实例化行为（Member Function Instantiation）	292
-      7.2 异常处理（Exception Handling）	297
-         Exception Handling快速检阅	298
-         对Exception Handling的支持	303
-      7.3 执行期类型识别（Runtime Type Identification，RTTI）	308
-         Type-Safe Downcast（保证安全的向下转换操作）	310
-         Type-Safe Dynamic Cast（保证安全的动态转换）	311
-         References并不是Pointers	313
-         Typeid运算符	314
-      7.4 效率有了，弹性呢？	318
-         动态共享函数库（Dynamic Shared Libraries）	318
-         共享内存（Shared Memory）	318
+- [x] 第4章 Function语意学（The Semantics of Function）	139
+- [x] 第5章 构造、析构、拷贝语意学（Semantics of Construction,Destruction, and Copy）	191
+- [x] 第6章 执行期语意学（Runtime Semantics）	237
+- [x] 第7章 站在对象模型的尖端（On the Cusp of the Object Model）	279
 
 > book list
 
