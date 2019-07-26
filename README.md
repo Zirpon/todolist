@@ -35,6 +35,13 @@ timeline | course |
 
 ---
 
+- [ ] 洗衣服
+- [ ] 洗东西 晾 收拾好
+- [ ] 空水瓶放好
+- [ ] 看完 RocketMQ 技术内幕
+
+---
+
 > book 2019-01-08 TCP/IP 第一卷
 
 - [x] TCP/IP 一二章
@@ -54,21 +61,24 @@ timeline | course |
 - [ ] 第 29 章 网络文件系统
 - [ ] 第 30 章 其他的 TCP/IP 应用程序
 
+> book 2019-06-09 分布式消息中间件实践
+
 > book list
 
 - [ ] 阿哈算法 finish
 - [ ] 绿皮数据结构 finish
 - [ ] 高性能MySQL
-- [ ] java 入门与精通
-
-- [ ] 深度探索c++
-- [ ] 操作系统精髓与设计原理
 - [ ] 读书 曾国藩
+
+- [ ] 操作系统精髓与设计原理
 - [ ] rust 编程
+- [ ] 高可用架构
 - [ ] 编程珠玑
+- [ ] RocketMQ 技术内幕
 
+- [x] RocketMQ 实践与原理解析
 - [x] C++ 高质量编程
-
+- [x] 深度探索c++
 - [x] C++ Primer Plus 6
 - [x] programming in lua 5.0
 
@@ -76,8 +86,7 @@ timeline | course |
 
 - [ ] 以前的无线鼠标 怎么处理 右键有时候失灵 滑轮基本不好用
 - [ ] 明天早上去看看 耳机🎧怎么处理 修还是捐还好扔还是送
-- [ ] 租房 东海花园 锦绣花园 day and night && 自如 续约
-- [ ] 拿快递 装贴膜
+- [ ] <源码研究netty系列> 深入 java 再买来看
 
 > when you got nothing to do
 
