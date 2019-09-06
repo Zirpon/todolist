@@ -61,7 +61,12 @@ timeline | course |
 - [ ] 第 29 章 网络文件系统
 - [ ] 第 30 章 其他的 TCP/IP 应用程序
 
-> book 2019-06-09 分布式消息中间件实践
+> book 2019-01-08 TCP/IP 第二卷
+> book 2019-09-05 UNIX 环境高级编程
+> book 2019-09-05 rust 编程
+> book 2019-09-05 操作系统精髓与设计原理
+> book 2019-09-05 高可用架构
+> book 2019-09-05 深入理解并行编程
 
 > book list
 
@@ -74,8 +79,9 @@ timeline | course |
 - [ ] rust 编程
 - [ ] 高可用架构
 - [ ] 编程珠玑
-- [ ] RocketMQ 技术内幕
+- [ ] unix 环境 高级编程
 
+- [x] RocketMQ 技术内幕
 - [x] RocketMQ 实践与原理解析
 - [x] C++ 高质量编程
 - [x] 深度探索c++
