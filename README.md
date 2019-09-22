@@ -158,6 +158,11 @@ timeline | course |
 - [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
 - [ ] LinkedHashMap
 
+`量子计算机`
+
+- [ ] 量子电路
+- [ ] 计算范式
+
 `机器学习`
 
 `work reference`
