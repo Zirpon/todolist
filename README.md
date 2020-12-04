@@ -57,7 +57,6 @@
 - [ ] 消息中间件转发 java
 - [ ] java共享内存
 - [ ] 看华哥hbus的设计
-- [x] linux socket select poll epoll
 
 ## usual
 
