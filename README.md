@@ -56,8 +56,6 @@
 - [ ] mysql 同步
 - [ ] 消息中间件转发 java
 - [ ] java共享内存
-- [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
-- [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
 - [ ] 看华哥hbus的设计
 - [x] linux socket select poll epoll
 
