@@ -2,10 +2,6 @@
 
 ---
 
-- [ ] 看完 RocketMQ 技术内幕
-
----
-
 > book 2019-01-08 TCP/IP 第一卷
 
 - [x] TCP/IP 一二章
@@ -60,32 +56,21 @@
 
 - [ ] 五十音图 Butterfly 你的名字主题曲
 - [ ] 清理微博了 要把转回来 MARK 的看看学习哦
-- [ ] 读英语 练习口语 单词 阅读英文报刊
-- [ ] 学好一点英语,流畅口语 写作,tofel
 
 > work
 
 > private jobs
 
-- [ ] blog 音乐自动播放
-- [ ] 香港云服务器
-- [ ] 点进文章不打断播放
 - [ ] mysql 复制 同步
 - [ ] BSD、 SunOS 4.1.x、Solaris 2.x 及AIX 3.2.2 系统的概念
 - [ ] mysql 同步
-- [ ] linkin 消息处理
 - [ ] 消息中间件转发 java
 - [ ] java共享内存
 - [x] linux socket select poll epoll
-- [ ] nginx rtmp module 视频直播方案
 - [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
-- [ ] blog 订阅功能
-- [ ] blog 添加记录
 - [ ] 看华哥hbus的设计
 
-- [ ] 整理一下挂机项目
-- [ ] 微信运动爬取 做曲线图
 
 > keep fit workout plan
 
@@ -104,8 +89,15 @@
 
 `分布式` `大数据`
 
-- [ ] tborg, chubby设计 paxos算法 zookeeper
-- [ ] 还有上周了解到的那个数数科技 运营后台 基于大数据平台设计 hbase 列式存储 hadoop spark 计算引擎 MapReduce zookeeper 分布式组件管理
+- [ ] 分布式算法
+	- tborg
+	- chubby设计 
+	- paxos算法 
+	- zookeeper
+- [ ] 还有上周了解到的那个数数科技 运营后台 基于大数据平台设计 
+	- hbase 列式存储 
+	- hadoop spark 计算引擎 MapReduce 
+	- zookeeper 分布式组件管理
 - [ ] 容器 docker kerbernate 部署一下
 
 `java`
@@ -114,7 +106,7 @@
 - [ ] java 父子线程 关系
 - [ ] Java 代码
 - [ ] runnable，thread Java 区别
-- [ ] netty easy UI jquery storm Hadoop mina spring mybaits mysql
+- [ ] netty jquery storm Hadoop mina spring mybaits mysql
 - [ ] LinkedHashMap
 
 `量子计算机`
@@ -131,13 +123,11 @@
 - [ ] recast navigation 运行 demo 学习 工具 寻路使用
 - [ ] recast navigation 学习 导入自定义模型 源码
 - [ ] recast navigation 学习 导航 源码
-- [x] cmake 学习 总结 记 blog
 - [ ] MongoDB 使用
 - [ ] MongoDB 源码研究
 - [ ] MongoDB 优化
 - [ ] skynet
 - [ ] go
-- [x] /proc/meminfo, iostat, 记 blog
 - [ ] jemalloc 源码 如何申请内存与分配内存
 - [ ] kbengine
 - [ ] protobuf 源码 研究
@@ -146,9 +136,10 @@
 - [ ] lua 内存泄漏
 - [ ] rocketmq 使用 源码研究 深入探索
 - [ ] binary-sort tree c 实现 优化handle name retire 遍历
-- [ ] xhprof php 性能测试插件
-- [ ] php runtime 优化
 - [ ] 并行请求swool curl_muti
+
+- [x] cmake 学习 总结 记 blog
+- [x] /proc/meminfo, iostat, 记 blog
 
 `database`
 
@@ -170,9 +161,6 @@
 
 > life skill explore list
 
-- [ ] 学换轮胎 学一些必要修车技能
-- [ ] 学钢琴
-- [ ] 学专业煮菜
 
 > reminder
 
