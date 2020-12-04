@@ -1,43 +1,7 @@
 # todolist
 
-`today`
-
-timeline | course |
-:-------:|:-----: |
-06:00 ~ 07:00 | running && english words
-07:00 ~ 08:00 | breadfeast && reading book
-08:00 ~ 09:00 | reading book
-09:00 ~ 09:30 | reading book
-09:30 ~ 10:00 | reading book
-10:00 ~ 10:45 | reading book
-10:45 ~ 11:00 | reading book
-11:00 ~ 11:50 | reading book
-11:50 ~ 12:00 | excersice
-12:00 ~ 12:30 | launch
-12:30 ~ 13:00 | nap
-13:00 ~ 13:50 | reading book
-13:50 ~ 14:00 | reading book
-14:00 ~ 14:45 | reading book
-14:45 ~ 15:00 | reading book
-15:00 ~ 15:45 | reading book
-15:45 ~ 16:00 | reading book
-16:45 ~ 17:45 | way to gym
-17:45 ~ 18:00 | gym
-18:00 ~ 18:30 | gym
-18:30 ~ 19:00 | gym back
-19:00 ~ 19:30 | dinner
-19:30 ~ 20:00 | reading book
-20:00 ~ 21:00 | reading book
-21:00 ~ 21:30 | reading book
-21:30 ~ 22:00 | reading book
-22:00 ~ 23:00 | bath && facial
-23:00 ~ 23:30 | reading novel
-
 ---
 
-- [ ] 洗衣服
-- [ ] 洗东西 晾 收拾好
-- [ ] 空水瓶放好
 - [ ] 看完 RocketMQ 技术内幕
 
 ---
@@ -90,21 +54,16 @@ timeline | course |
 
 > usual
 
-- [ ] 以前的无线鼠标 怎么处理 右键有时候失灵 滑轮基本不好用
-- [ ] 明天早上去看看 耳机🎧怎么处理 修还是捐还好扔还是送
 - [ ] <源码研究netty系列> 深入 java 再买来看
 
 > when you got nothing to do
 
-- [ ] 五十音图 势要学日语 Butterfly 你的名字主题曲
+- [ ] 五十音图 Butterfly 你的名字主题曲
 - [ ] 清理微博了 要把转回来 MARK 的看看学习哦
-- [ ] 我觉得我真的得要认真看看怎么减肥的了 身体太笨重了 不灵活
 - [ ] 读英语 练习口语 单词 阅读英文报刊
 - [ ] 学好一点英语,流畅口语 写作,tofel
 
 > work
-
-- [ ] dump 日志 皮卡丘
 
 > private jobs
 
@@ -216,14 +175,5 @@ timeline | course |
 - [ ] 学专业煮菜
 
 > reminder
-
-- 生活作息不对 要调整  要七点起床 11点睡觉 成年人要八小时睡眠
-- 吃饭 按时吃饭 按时睡觉 按时完成每天计划 这样就不会熬夜 就不会不知道每天该干什么
-- 学习
-
-04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
----|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-TUE|WED |THU |FRI |SAT |SUN |MON |TUE |WED |THU |FRI |SAT |SUN |MON |
-   |    |    |    |    |    |    |    |    |    |    |    |    |    |
 
 ---
