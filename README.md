@@ -53,14 +53,13 @@
 ## private jobs
 
 - [ ] mysql 复制 同步
-- [ ] BSD、 SunOS 4.1.x、Solaris 2.x 及AIX 3.2.2 系统的概念
 - [ ] mysql 同步
 - [ ] 消息中间件转发 java
 - [ ] java共享内存
-- [x] linux socket select poll epoll
 - [ ] terchat 自然语言处理 人工智能 筛选 回复树 类别 对象树
 - [ ] python lua 获取python对象 实现 lua 逻辑热更 lupa
 - [ ] 看华哥hbus的设计
+- [x] linux socket select poll epoll
 
 ## usual
 
@@ -102,27 +101,27 @@
 - `work reference`
 
   - [ ] 消息截断 解包失败 处理 格斗之皇 算法
-  - [ ] 有时间可以看看王者荣耀客户端cs代码 了解一下cs 游戏的设计框架 以及帧同步 寻路 这一块
-  - [ ] recast navigation 运行 demo 学习 工具 寻路使用
-  - [ ] recast navigation 学习 导入自定义模型 源码
-  - [ ] recast navigation 学习 导航 源码
-  - [ ] MongoDB 使用
-  - [ ] MongoDB 源码研究
-  - [ ] MongoDB 优化
-  - [ ] skynet
+  - [ ] 看看王者荣耀客户端cs代码 了解一下cs 游戏的设计框架 以及帧同步 寻路 这一块
+    - recast navigation 运行 demo 学习 工具 寻路使用
+    - recast navigation 学习 导入自定义模型 源码
+    - recast navigation 学习 导航 源码
+  - [ ] MongoDB
+    - MongoDB 使用
+    - MongoDB 源码研究
+    - MongoDB 优化
   - [ ] go
   - [ ] jemalloc 源码 如何申请内存与分配内存
-  - [ ] kbengine
-  - [ ] protobuf 源码 研究
   - [ ] redis 源码
   - [ ] hazard version
   - [ ] lua 内存泄漏
-  - [ ] rocketmq 使用 源码研究 深入探索
   - [ ] binary-sort tree c 实现 优化handle name retire 遍历
-  - [ ] 并行请求swool curl_muti
+  - [ ] 并行请求 swool curl_muti
 
+  - [X] skynet
+  - [X] rocketmq 使用 源码研究 深入探索
   - [x] cmake 学习 总结 记 blog
   - [x] /proc/meminfo, iostat, 记 blog
+  - [X] protobuf 源码 研究
 
 - `database`
 
