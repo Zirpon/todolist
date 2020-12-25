@@ -38,7 +38,6 @@
 - [ ] rust 编程
 - [ ] 高可用架构
 - [ ] 编程珠玑
-- [ ] unix 环境 高级编程
 - [ ] 深入理解并行编程
 
 - [x] RocketMQ 技术内幕
@@ -47,6 +46,7 @@
 - [x] 深度探索c++
 - [x] C++ Primer Plus 6
 - [x] programming in lua 5.0
+- [x] unix 环境 高级编程
 
 ---
 
